@@ -1,0 +1,422 @@
+﻿[
+    {
+        "email":  "escritorioalexandrecardoso@gmail.com",
+        "CPF":  "32206321300"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-NOTEBOO",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "usuario",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-81498-51646-AA480",
+        "Data_da_instalação_original":  "17/08/2021, 16:15:50",
+        "Tempo_de_Inicialização_do_Sistema":  "30/01/2025, 18:17:54",
+        "Fabricante_do_sistema":  "SAMSUNG ELECTRONICS CO., LTD.",
+        "Modelo_do_sistema":  "550XDA",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.3.36",
+        "Versão_do_BIOS":  "American Megatrends International, LLC. P21CFB.051.240224.HQ, 24/02/2024",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume4",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "3.819 MB",
+        "Memória_física_disponível":  "452 MB",
+        "Memória_Virtual":  "Em Uso:                   10.841 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "CONTEC",
+        "Servidor_de_Logon":  "\\\\DESKTOP-NOTEBOO",
+        "Hotfix(es)":  "39 hotfix(es) instalado(s).",
+        "[02]":  "fe80::2da8:539b:ad93:ada1",
+        "[03]":  "Realtek PCIe GbE Family Controller",
+        "[04]":  "Bluetooth Device (Personal Area Network)",
+        "[05]":  "KB5011067",
+        "[06]":  "KB5012170",
+        "[07]":  "KB5015684",
+        "[08]":  "KB5044273",
+        "[09]":  "KB5006753",
+        "[10]":  "KB5007273",
+        "[11]":  "KB5011352",
+        "[12]":  "KB5011651",
+        "[13]":  "KB5014032",
+        "[14]":  "KB5014035",
+        "[15]":  "KB5014671",
+        "[16]":  "KB5015895",
+        "[17]":  "KB5016705",
+        "[18]":  "KB5018506",
+        "[19]":  "KB5020372",
+        "[20]":  "KB5022924",
+        "[21]":  "KB5023794",
+        "[22]":  "KB5025315",
+        "[23]":  "KB5026879",
+        "[24]":  "KB5028318",
+        "[25]":  "KB5028380",
+        "[26]":  "KB5029709",
+        "[27]":  "KB5031539",
+        "[28]":  "KB5032392",
+        "[29]":  "KB5032907",
+        "[30]":  "KB5034224",
+        "[31]":  "KB5036447",
+        "[32]":  "KB5037018",
+        "[33]":  "KB5037240",
+        "[34]":  "KB5037995",
+        "[35]":  "KB5039336",
+        "[36]":  "KB5041579",
+        "[37]":  "KB5043935",
+        "[38]":  "KB5043130",
+        "[39]":  "KB5005699",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Conexão de Rede Bluetooth",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.3.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Illustrator 2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Alterdata Backup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Aplicativo Itaú"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Auto.Sky Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Remote Desktop Host"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Componente de Segurança Bradesco"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Diagnostico Immobile  6.13.15.0 version 6.13.15.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GO-Global Client"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GRRF Eletrônica"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Immobile Condomínio"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Immobile Condomínio Diamond"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Immobile Condomínio versão 6.13.33.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Instalador Bibliotecas Alterdata versão 6.13"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2020"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kryptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LDPlayer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Loquendo TTS 7 Engine Full Distribution"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Loquendo TTS 7 Felipe Multimedia High Quality"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Loquendo TTS 7 Fernanda Multimedia High Quality"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Loquendo TTS 7 Portuguese"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee Safe Connect"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee Security Scan Plus"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host - 6.0.16 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host FX Resolver - 6.0.16 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.16 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft GameInput"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29334"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 6.0.16 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Navegador C6 Bank"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "NVIDIA PhysX"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OBS Studio"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OpenAL"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "psqlODBC"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Roblox Player"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Rockstar Games Launcher"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Steam"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Tenorshare ReiBoot 9.3.1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "UXP WebView Support"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WebAdvisor da McAfee"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Wondershare Helper Compact 2.6.0"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/02/2025_00:05:35",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  255382777856,
+                                         "FreeSpace":  1232957440
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  119447977984,
+                                         "FreeSpace":  44728541184
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2332598965-2507861265-3380330738-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\usuario",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2332598965-2507861265-3380330738-1007",
+                                                                                  "ProfileImagePath":  "C:\\Users\\kcaha",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2332598965-2507861265-3380330738-1011",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AR LIDERSIS",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

@@ -1,0 +1,262 @@
+﻿[
+    {
+        "email":  "williansilva634@gmail.com",
+        "CPF":  "05983696190"
+    },
+    {
+        "Nome_do_host":  "ARLIDERSIS-TGT",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.26100 N/A compilação 26100",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_sistema_operacional":  "Estação de trabalho membro",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Willian",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80000-00000-AA311",
+        "Data_da_instalação_original":  "22/11/2024, 17:54:28",
+        "Tempo_de_Inicialização_do_Sistema":  "03/02/2025, 08:38:58",
+        "Fabricante_do_sistema":  "BIOSTAR Group",
+        "Modelo_do_sistema":  "B560MHP",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.0.24",
+        "Versão_do_BIOS":  "American Megatrends International, LLC. 5.19, 21/12/2021",
+        "Diretório_do_Windows":  "C:\\WINDOWS",
+        "Diretório_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume4",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "32.625 MB",
+        "Memória_física_disponível":  "25.936 MB",
+        "Memória_Virtual":  "Em Uso:                   9.332 MB",
+        "Local(s)_do_Arquivo_de_Página":  "C:\\pagefile.sys",
+        "Domínio":  "rede.lidersis",
+        "Servidor_de_Logon":  "\\\\DC",
+        "Hotfix(es)":  "4 hotfix(es) instalado(s).",
+        "[02]":  "fe80::4b48:d054:bc9d:2190",
+        "[03]":  "KB5050387",
+        "[04]":  "KB5050108",
+        "Placa(s)_de_Rede":  "2 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Ethernet",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.0.254",
+        "Segurança_baseada_em_virtualização":  "Status: Executando",
+        "App_Control_for_Business_policy":  "Imposto",
+        "App_Control_for_Business_user_mode_policy":  "Desativado",
+        "Requisitos_do_Hyper-V":  "Hipervisor detectado. Recursos necessários para o Hyper-V não serão exibidos."
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.6"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.2.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Canon IJ Network Scanner Selector EX2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Canon IJ Printer Assistant Tool"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Canon IJ Scan Utility"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DefaultPackMSI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dev-C++"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ISIS Driver - KODAK i900"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "KODAK SCANMATE i900 Scanners"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "KODAK SCANMATE i900 Series - Smart Touch"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET SDK 8.0.405 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.38.33130"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.38.33130"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.38.33130"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.38.33130"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Power Automate for desktop"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek High Definition Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Sebrae - Assinador Digital"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "03/02/2025_08:45:28",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  249349271552,
+                                         "FreeSpace":  104352391168
+                                     },
+                                     {
+                                         "DeviceID":  "E",
+                                         "Size":  499089207296,
+                                         "FreeSpace":  183742603264
+                                     },
+                                     {
+                                         "DeviceID":  "F",
+                                         "Size":  500104687616,
+                                         "FreeSpace":  196681728
+                                     },
+                                     {
+                                         "DeviceID":  "Z",
+                                         "Size":  751481909248,
+                                         "FreeSpace":  259904147456
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Grupo",
+                                                                   "Name":  "Domain Admins",
+                                                                   "PrincipalSource":  2
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Grupo",
+                                                                   "Name":  "Domain Users",
+                                                                   "PrincipalSource":  2
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários de log de desempenho",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "willian",
+                                                                   "PrincipalSource":  2
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "True",
+                                            "Requer_autenticacao_no_nivel_da_rede":  "False"
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1749592382-3207537682-2358545641-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Willian",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1125",
+                                                                                  "ProfileImagePath":  "C:\\Users\\willian.LIDERSIS",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

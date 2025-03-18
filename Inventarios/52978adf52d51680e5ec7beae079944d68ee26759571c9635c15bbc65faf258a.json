@@ -1,0 +1,192 @@
+﻿[
+    {
+        "email":  "lidiane.emmer@gmail.com",
+        "CPF":  "06555850604"
+    },
+    {
+        "Host_Name":  "HPNOVINHO",
+        "OS_Name":  "Microsoft Windows 11 Pro",
+        "OS_Version":  "10.0.26100 N/A Build 26100",
+        "OS_Manufacturer":  "Microsoft Corporation",
+        "OS_Configuration":  "Standalone Workstation",
+        "OS_Build_Type":  "Multiprocessor Free",
+        "Registered_Owner":  "mvtaxservices@gmail.com",
+        "Registered_Organization":  "HP",
+        "Product_ID":  "00331-20020-00000-AA818",
+        "Original_Install_Date":  "1/2/2025, 10:16:33 PM",
+        "System_Boot_Time":  "1/24/2025, 10:29:53 AM",
+        "System_Manufacturer":  "HP",
+        "System_Model":  "HP Laptop 15-fd0xxx",
+        "System_Type":  "x64-based PC",
+        "Processor(s)":  "1 Processor(s) Installed.",
+        "[01]":  "10.1.10.192",
+        "BIOS_Version":  "AMI F.10, 3/20/2024",
+        "Windows_Directory":  "C:\\WINDOWS",
+        "System_Directory":  "C:\\WINDOWS\\system32",
+        "Boot_Device":  "\\Device\\HarddiskVolume1",
+        "System_Locale":  "en-us;English (United States)",
+        "Input_Locale":  "en-us;English (United States)",
+        "Time_Zone":  "(UTC-03:00) Brasilia",
+        "Total_Physical_Memory":  "7,836 MB",
+        "Available_Physical_Memory":  "1,671 MB",
+        "Virtual_Memory":  "In Use:        7,721 MB",
+        "Page_File_Location(s)":  "C:\\pagefile.sys",
+        "Domain":  "WORKGROUP",
+        "Logon_Server":  "\\\\HPNOVINHO",
+        "Hotfix(s)":  "3 Hotfix(s) Installed.",
+        "[02]":  "fe80::4377:32fb:71b7:3cf9",
+        "[03]":  "Bluetooth Device (Personal Area Network)",
+        "Network_Card(s)":  "3 NIC(s) Installed.",
+        "Connection_Name":  "Bluetooth Network Connection",
+        "DHCP_Enabled":  "Yes",
+        "DHCP_Server":  "10.1.10.1",
+        "[04]":  "2603:3005:29eb:8100:4560:7387:ce87:d00b",
+        "[05]":  "2603:3005:29eb:8100::e194",
+        "Status":  "Media disconnected",
+        "Virtualization-based_security":  "Status: Running",
+        "App_Control_for_Business_policy":  "Enforced",
+        "App_Control_for_Business_user_mode_policy":  "Off",
+        "Hyper-V_Requirements":  "A hypervisor has been detected. Features required for Hyper-V will not be displayed."
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Connection Optimizer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee®"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34433"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "NeoID Desktop - UNREGISTERED - Wrapped using MSI Wrapper from www.exemsi.com"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WebAdvisor by McAfee"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows 10 Update Assistant"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "24/01/2025_10:43:22",
+                    "ServidorHorarioUtilizado":  "Collecting_1_samples.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "McAfee VirusScan",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  254888898560,
+                                         "FreeSpace":  167162200064
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1885062562-1078780948-406972441-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\mvtax",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1885062562-1078780948-406972441-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ARCERTFY",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1885062562-1078780948-406972441-1003",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ARCERTFY-LIANA",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1885062562-1078780948-406972441-1004",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ARCERTFY-LIDIANE1",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

@@ -1,0 +1,467 @@
+﻿[
+    {
+        "email":  "bittanscertificado@gmail.com",
+        "CPF":  "07089638545"
+    },
+    {
+        "Nome_do_host":  "SLTNOTEBITTANS",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Usuário do Windows",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-81492-16371-AA121",
+        "Data_da_instalação_original":  "19/11/2021, 14:23:25",
+        "Tempo_de_Inicialização_do_Sistema":  "27/01/2025, 08:04:49",
+        "Fabricante_do_sistema":  "SAMSUNG ELECTRONICS CO., LTD.",
+        "Modelo_do_sistema":  "550XDA",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "10.0.0.125",
+        "Versão_do_BIOS":  "American Megatrends International, LLC. P08CFB.034.210609.HQ, 09/06/2021",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "7.915 MB",
+        "Memória_física_disponível":  "3.544 MB",
+        "Memória_Virtual":  "Em Uso:                   4.728 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "workgroup",
+        "Servidor_de_Logon":  "\\\\SLTNOTEBITTANS",
+        "Hotfix(es)":  "24 hotfix(es) instalado(s).",
+        "[02]":  "fe80::e7d8:3015:ddfb:1ca7",
+        "[03]":  "Bluetooth Device (Personal Area Network)",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB5015684",
+        "[06]":  "KB5029244",
+        "[07]":  "KB5006753",
+        "[08]":  "KB5007273",
+        "[09]":  "KB5011352",
+        "[10]":  "KB5011651",
+        "[11]":  "KB5014032",
+        "[12]":  "KB5014035",
+        "[13]":  "KB5014671",
+        "[14]":  "KB5015895",
+        "[15]":  "KB5016705",
+        "[16]":  "KB5018506",
+        "[17]":  "KB5020372",
+        "[18]":  "KB5022924",
+        "[19]":  "KB5023794",
+        "[20]":  "KB5025315",
+        "[21]":  "KB5026879",
+        "[22]":  "KB5028318",
+        "[23]":  "KB5028380",
+        "[24]":  "KB5003742",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "10.0.0.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  [
+                                       {
+                                           "Sistema":  {
+                                                           "Alteração no estado de segurança":  "Sem Auditoria",
+                                                           "Driver IPsec":  "Sem Auditoria",
+                                                           "Integridade do sistema":  "Sem Auditoria",
+                                                           "Extensão do sistema de segurança":  "Sem Auditoria",
+                                                           "Outros Eventos do Sistema":  "Sem Auditoria"
+                                                       }
+                                       },
+                                       {
+                                           "Logon/logoff":  {
+                                                                "Servidor de Política de Rede":  "Êxito e Falha",
+                                                                "Logoff":  "Êxito e Falha",
+                                                                "Associação a um Grupo":  "Êxito e Falha",
+                                                                "Modo estendido do IPsec":  "Êxito e Falha",
+                                                                "Bloqueio de conta":  "Êxito e Falha",
+                                                                "Logon":  "Êxito e Falha",
+                                                                "Modo rápido do IPsec":  "Êxito e Falha",
+                                                                "Modo principal do IPsec":  "Êxito e Falha",
+                                                                "Logon especial":  "Êxito e Falha",
+                                                                "Outros eventos de logon/logoff":  "Êxito e Falha",
+                                                                "Declarações do Usuário/Dispositivo":  "Êxito e Falha"
+                                                            }
+                                       },
+                                       {
+                                           "Acesso a objetos":  {
+                                                                    "Conexão de Plataforma de Filtragem":  "Êxito e Falha",
+                                                                    "Preparo da Política Central":  "Êxito e Falha",
+                                                                    "Objeto Kernel":  "Êxito e Falha",
+                                                                    "Aplicativo gerado":  "Êxito e Falha",
+                                                                    "Armazenamento Removível":  "Êxito e Falha",
+                                                                    "Registro":  "Êxito e Falha",
+                                                                    "Compartilhamento de arquivos":  "Êxito e Falha",
+                                                                    "Manipulação de Identificador":  "Êxito e Falha",
+                                                                    "Sistema de arquivos":  "Êxito e Falha",
+                                                                    "Compartilhamento de arquivos detalhado":  "Êxito e Falha",
+                                                                    "Descarte de Pacote de Plataforma de Filtragem":  "Êxito e Falha",
+                                                                    "SAM":  "Êxito e Falha",
+                                                                    "Serviços de certificação":  "Êxito e Falha",
+                                                                    "Outros Eventos de Acesso a Objetos":  "Êxito e Falha"
+                                                                }
+                                       },
+                                       {
+                                           "Uso de privilégios":  {
+                                                                      "Uso de Privilégio Não Importante":  "Êxito e Falha",
+                                                                      "Uso de Privilégio Importante":  "Êxito e Falha",
+                                                                      "Outros Eventos de Uso de Privilégios":  "Êxito e Falha"
+                                                                  }
+                                       },
+                                       {
+                                           "Monitoração detalhada":  {
+                                                                         "Eventos Plug and Play":  "Sem Auditoria",
+                                                                         "Eventos Ajustados ao Direito de Token":  "Sem Auditoria",
+                                                                         "Criação de processo":  "Sem Auditoria",
+                                                                         "Atividade DPAPI":  "Sem Auditoria",
+                                                                         "Terminação de processo":  "Sem Auditoria",
+                                                                         "Eventos de RPC":  "Sem Auditoria"
+                                                                     }
+                                       },
+                                       {
+                                           "Alteração de política":  {
+                                                                         "Alteração na política de autenticação":  "Êxito e Falha",
+                                                                         "Alteração na Política de Autorização":  "Êxito e Falha",
+                                                                         "Alteração na política de nível de regra MPSSVC":  "Êxito e Falha",
+                                                                         "Alteração na Política da Plataforma de Filtragem":  "Êxito e Falha",
+                                                                         "Outros eventos de alteração de política ":  "Êxito e Falha",
+                                                                         "Auditoria de alteração de políticas":  "Êxito e Falha"
+                                                                     }
+                                       },
+                                       {
+                                           "Gerenciamento de contas":  {
+                                                                           "Outros Eventos de Gerenciamento de Contas":  "Êxito e Falha",
+                                                                           "Gerenciamento de conta de computador":  "Êxito e Falha",
+                                                                           "Gerenciamento de conta de usuário":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de distribuição":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de segurança":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de aplicativos":  "Êxito e Falha"
+                                                                       }
+                                       },
+                                       {
+                                           "Acesso DS":  {
+                                                             "Acesso ao serviço de diretório":  "Sem Auditoria",
+                                                             "Replicação do serviço de diretório":  "Sem Auditoria",
+                                                             "Replicação detalhada do serviço de diretório":  "Sem Auditoria",
+                                                             "Alterações no serviço de diretório":  "Sem Auditoria"
+                                                         }
+                                       },
+                                       {
+                                           "Logon de conta":  {
+                                                                  "Operações do Tíquete de serviço Kerberos":  "Êxito e Falha",
+                                                                  "Outros Eventos de Logon de Conta":  "Êxito e Falha",
+                                                                  "Serviço de Autenticação Kerberos":  "Êxito e Falha",
+                                                                  "Validação de Credenciais":  "Êxito e Falha"
+                                                              }
+                                       }
+                                   ],
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Flash Player 32 NPAPI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk MSI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Aplicativos da Autodesk em destaque 2020-2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Autodesk App Manager 2020-2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Autodesk Genuine Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Autodesk Material Library 2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Autodesk Material Library Base Resolution Image Library 2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Configurações da câmera Logitech"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CorelLASER 2013.02"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Desinstalar GED-Desktop"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ePass2003"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Easy Photo Print 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Event Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Software Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 321"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "K-Lite Mega Codec Pack 16.4.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kriptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LaserGRBL Rhydon"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Manual Epson L375 versão 1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Manual Epson L455 versão 1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host - 5.0.6 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host FX Resolver - 5.0.6 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 5.0.6 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft ASP.NET Core 6.0.8 - Shared Framework (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Basic/C++ Runtime (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29617"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29617"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 5.0.6 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 5.0.6 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 6.0.8 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Mozilla Maintenance Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OCS Inventory NG Agent 2.6.0.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SketchUp 2023"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SketchUp 2024"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TeamViewer 12 Host"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "03/02/2025_14:04:21",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+                                                    "a.st1.ntp.br,0x9_(Local)",
+                                                    "NtpServer_(Local)"
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  999544823808,
+                                         "FreeSpace":  406031806464
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  63831015424,
+                                         "FreeSpace":  38528483328
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:01:39",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "agr",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Usuário",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Usuário",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3363905243-2317176368-3962324012-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Usuário",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3363905243-2317176368-3962324012-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\agr",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3363905243-2317176368-3962324012-1003",
+                                                                                  "ProfileImagePath":  "C:\\Users\\infra",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3363905243-2317176368-3962324012-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  true,
+                                 "HistoricoSenhas":  "5",
+                                 "ComprimentoMinimoSenha":  "8",
+                                 "TempoMaximoSenha":  "30",
+                                 "TempoMinimoSenha":  "0",
+                                 "DuracaoBloqueioConta":  "30",
+                                 "LimiteBloqueioConta":  "8"
+                             }
+    }
+]

@@ -1,0 +1,394 @@
+﻿[
+    {
+        "email":  "raahkut@hotmail.com",
+        "CPF":  "60901863335"
+    },
+    {
+        "Nome_do_host":  "RAQUEL",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.26100 N/A compilação 26100",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_sistema_operacional":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "investconsolucoes@outlook.com",
+        "Organização_registrada":  "N/A",
+        "Identificação_do_produto":  "00331-20020-00000-AA651",
+        "Data_da_instalação_original":  "21/01/2025, 17:12:45",
+        "Tempo_de_Inicialização_do_Sistema":  "21/01/2025, 17:08:19",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "Inspiron 15 3511",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.0.116",
+        "Versão_do_BIOS":  "Dell Inc. 1.32.0, 16/08/2024",
+        "Diretório_do_Windows":  "C:\\WINDOWS",
+        "Diretório_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Caiena, Fortaleza",
+        "Memória_física_total":  "12.031 MB",
+        "Memória_física_disponível":  "3.440 MB",
+        "Memória_Virtual":  "Em Uso:                   10.267 MB",
+        "Local(s)_do_Arquivo_de_Página":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\RAQUEL",
+        "Hotfix(es)":  "3 hotfix(es) instalado(s).",
+        "[02]":  "fe80::46b9:ebfc:5460:ae31",
+        "[03]":  "2804:14c:5bc0:a78c:e8be:7d3f:ddda:3403",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Conexão de Rede Bluetooth",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.0.1",
+        "[04]":  "Bluetooth Device (Personal Area Network)",
+        "[05]":  "2804:14c:5bc0:a78c:7b14:27d:4926:5033",
+        "Segurança_baseada_em_virtualização":  "Status: Executando",
+        "App_Control_for_Business_policy":  "Imposto",
+        "App_Control_for_Business_user_mode_policy":  "Desativado",
+        "Requisitos_do_Hyper-V":  "Hipervisor detectado. Recursos necessários para o Hyper-V não serão exibidos."
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController - AllUsers"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0-JAVA7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Token Signing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DIEF Eletrônica - Versão 6.4.6"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2024 - Declaração do Imposto sobre a Renda Retido na Fonte "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DKSOFT"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Web Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Easy Photo Print 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Event Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Software Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Firebird 2.1.1.17910 (Win32)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Fusion Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Update Helper"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GOSIGNER versão 1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Holyrics versão 2.23.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2018"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2020"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2017 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2022 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 441"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kaspersky"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kaspersky VPN"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Manual Epson L375 versão 1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET 6.0 Templates 6.0.401 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET AppHost Pack - 6.0.9 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET AppHost Pack - 6.0.9 (x86_arm)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET AppHost Pack - 6.0.9 (x86_arm64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET AppHost Pack - 6.0.9 (x86_x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host - 6.0.14 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host FX Resolver - 6.0.14 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host FX Resolver - 6.0.9 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.14 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.14 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.9 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET SDK 6.0.401 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Standard Targeting Pack - 2.1.0 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Targeting Pack - 6.0.9 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Toolset 6.0.401 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft ASP.NET Core 6.0.9 Shared Framework (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft ASP.NET Core 6.0.9 Targeting Pack (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29913"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29913"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29913"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29913"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 5.0.17 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 6.0.14 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 6.0.9 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Targeting Pack - 6.0.9 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft.NET.Sdk.Android.Manifest-6.0.300"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft.NET.Sdk.iOS.Manifest-6.0.300"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft.NET.Sdk.MacCatalyst.Manifest-6.0.300"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft.NET.Sdk.macOS.Manifest-6.0.300"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft.NET.Sdk.Maui.Manifest-6.0.300"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft.NET.Sdk.tvOS.Manifest-6.0.300"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft.NET.Workload.Emscripten.Manifest"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft.NET.Workload.Mono.Toolchain.Manifest"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2005 CRT libraries"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "o-VPN SERPRO"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PDF-XChange Editor"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet BX"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TED-Transmissão Eletrônica de Documentos"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/02/2025_07:43:26",
+                    "ServidorHorarioUtilizado":  "",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "Kaspersky",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  235755532288,
+                                         "FreeSpace":  25047617536
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  224041889792,
+                                         "FreeSpace":  203680755712
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:01:14",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "01:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "ADM",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "ADM",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1278446903-2868484283-1111259074-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\inves",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

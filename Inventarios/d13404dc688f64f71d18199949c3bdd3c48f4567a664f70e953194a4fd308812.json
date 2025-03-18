@@ -1,0 +1,395 @@
+﻿[
+    {
+        "email":  "carolynna.cardoso@gmail.com",
+        "CPF":  "07378790176"
+    },
+    {
+        "Nome_do_host":  "CERTIFICADO-DIG",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.18363 N/A compilação 18363",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Certificado",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80000-00000-AA293",
+        "Data_da_instalação_original":  "08/03/2020, 11:02:40",
+        "Tempo_de_Inicialização_do_Sistema":  "14/01/2025, 10:24:43",
+        "Fabricante_do_sistema":  "System manufacturer",
+        "Modelo_do_sistema":  "System Product Name",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "10.0.0.103",
+        "Versão_do_BIOS":  "American Megatrends Inc. 1205   , 12/11/2009",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "4.095 MB",
+        "Memória_física_disponível":  "1.396 MB",
+        "Memória_Virtual":  "Em Uso:                   3.086 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "LAN",
+        "Servidor_de_Logon":  "\\\\CERTIFICADO-DIG",
+        "Hotfix(es)":  "15 hotfix(es) instalado(s).",
+        "[02]":  "TAP-Windows Adapter V9",
+        "[03]":  "KB4535680",
+        "[04]":  "KB4537759",
+        "[05]":  "KB4538674",
+        "[06]":  "KB4541338",
+        "[07]":  "KB4577586",
+        "[08]":  "KB4580325",
+        "[09]":  "KB4584229",
+        "[10]":  "KB4598479",
+        "[11]":  "KB4601395",
+        "[12]":  "KB5000908",
+        "[13]":  "KB5001406",
+        "[14]":  "KB5003244",
+        "[15]":  "KB5003169",
+        "Placa(s)_de_Rede":  "2 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "10.1.1.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Não",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AMD Catalyst Control Center"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BufferChm"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "C4400"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Catalyst Control Center - Branding"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Catalyst Control Center InstallProxy"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Catalyst Control Center Localization All"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Chinese Standard"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Chinese Traditional"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Czech"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Danish"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Dutch"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help English"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Finnish"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help French"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help German"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Greek"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Hungarian"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Italian"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Japanese"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Korean"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Norwegian"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Polish"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Portuguese"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Russian"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Spanish"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Swedish"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Thai"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCC Help Turkish"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Configurações da câmera Logitech"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Copy"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Destinations"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DeviceDiscovery"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DocProc"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Everything 1.4.1.1009 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Foxit Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Giesecke \u0026 Devrient GmbH StarSign CUT"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GPBaseService2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Scan Extended"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HPPhotoGadget"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HPProductAssistant"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HPSSupply"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Inkscape"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 251"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 291"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MarketResearch"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.50727"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.29.30133"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Notepad++ (32-bit x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OCS Inventory NG Agent 2.6.0.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PS_AIO_03_C4400_Software_Min"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SolutionCenter"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "StartIsBack++"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Status"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Toolbox"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TrayApp"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WebReg"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/02/2025_10:33:02",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  126905757696,
+                                         "FreeSpace":  41239318528
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Certificado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "defaultuser0",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2583253938-1853542508-441017553-1003",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Certificado",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

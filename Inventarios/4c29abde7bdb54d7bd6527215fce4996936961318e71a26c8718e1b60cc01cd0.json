@@ -1,0 +1,400 @@
+﻿[
+    {
+        "email":  "torrescontabilassessoria@outlook.com",
+        "CPF":  "06940494413"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-9VLPBA4",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "cleilson3a1c@hotmail.com",
+        "Organização_registrada":  "N/A",
+        "Identificação_do_produto":  "00330-80181-55073-AA672",
+        "Data_da_instalação_original":  "11/05/2022, 20:08:59",
+        "Tempo_de_Inicialização_do_Sistema":  "30/01/2025, 12:49:36",
+        "Fabricante_do_sistema":  "LENOVO",
+        "Modelo_do_sistema":  "81S9",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "10.125.95.107",
+        "Versão_do_BIOS":  "LENOVO ASCN51WW, 14/05/2021",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume2",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.072 MB",
+        "Memória_física_disponível":  "2.774 MB",
+        "Memória_Virtual":  "Em Uso:                   6.685 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-9VLPBA4",
+        "Hotfix(es)":  "41 hotfix(es) instalado(s).",
+        "[02]":  "Bluetooth Device (Personal Area Network)",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "KB5003791",
+        "[05]":  "KB5007401",
+        "[06]":  "KB5011048",
+        "[07]":  "KB5011067",
+        "[08]":  "KB5012170",
+        "[09]":  "KB5015684",
+        "[10]":  "KB5049981",
+        "[11]":  "KB5014032",
+        "[12]":  "KB5014035",
+        "[13]":  "KB5014671",
+        "[14]":  "KB5015895",
+        "[15]":  "KB5016705",
+        "[16]":  "KB5018506",
+        "[17]":  "KB5020372",
+        "[18]":  "KB5022924",
+        "[19]":  "KB5023794",
+        "[20]":  "KB5025315",
+        "[21]":  "KB5026879",
+        "[22]":  "KB5028318",
+        "[23]":  "KB5028380",
+        "[24]":  "KB5029709",
+        "[25]":  "KB5030506",
+        "[26]":  "KB5031539",
+        "[27]":  "KB5032392",
+        "[28]":  "KB5032907",
+        "[29]":  "KB5034224",
+        "[30]":  "KB5036447",
+        "[31]":  "KB5037018",
+        "[32]":  "KB5037240",
+        "[33]":  "KB5037995",
+        "[34]":  "KB5039336",
+        "[35]":  "KB5041579",
+        "[36]":  "KB5043935",
+        "[37]":  "KB5043130",
+        "[38]":  "KB5046823",
+        "[39]":  "KB5050388",
+        "[40]":  "KB5005699",
+        "[41]":  "KB5050411",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "10.125.0.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Atividade Rural 2023"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BurnAware Free 15.4"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Carnê-Leão 2020"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Check Point VPN"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Remote Desktop Host"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Componente de Segurança Bradesco"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2023 - Declaração do Imposto sobre a Renda Retido na Fonte"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2024 - Declaração do Imposto sobre a Renda Retido na Fonte "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DMA_2012"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dmed 2023 - Declaração de Serviços Médicos e de Saúde"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Easy Photo Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Connect Printer Setup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Easy Photo Print 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Event Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Printer Connection Checker"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Scan 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson ScanSmart"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Software Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "eSocial A3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Ferramenta CAR - Módulo de Cadastro - Nacional v3.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Firebird 2.5.9.27139 (Win32)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GRRF Eletrônica"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ICPBravoAccess.Extension"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2020"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2017 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2018 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2019 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2020 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2021 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2022 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 431"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java(TM) 6 Update 26"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kryptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Manual Epson L3150"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Azure Information Protection"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34433"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34433"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34433"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34433"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Mobitrix WhatsApp Transfer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2005 CRT libraries"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OCS Inventory NG Agent 2.6.0.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "RAPA versão 5.7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet BX"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for CAPICOM (KB931906)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SG Master versão 2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "sisbb - IBM 3270 Terminal emulator"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "VALID 1.0.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/02/2025_00:05:50",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "Avast Antivirus",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  258284883968,
+                                         "FreeSpace":  16700780544
+                                     },
+                                     {
+                                         "DeviceID":  "H",
+                                         "Size":  16106127360,
+                                         "FreeSpace":  7293878272
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3170908581-3131687209-2141881209-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\cleil",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

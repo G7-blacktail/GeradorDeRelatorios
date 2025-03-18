@@ -1,0 +1,270 @@
+﻿[
+    {
+        "email":  "admin@fernandescontabilidade.com",
+        "CPF":  "01233358332"
+    },
+    {
+        "Nome_do_host":  "FERNANDESNETO",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.26100 N/A compilação 26100",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_sistema_operacional":  "Estação de trabalho membro",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "N/A",
+        "Organização_registrada":  "N/A",
+        "Identificação_do_produto":  "00330-80000-00000-AA169",
+        "Data_da_instalação_original":  "25/11/2024, 22:57:41",
+        "Tempo_de_Inicialização_do_Sistema":  "03/03/2025, 08:16:29",
+        "Fabricante_do_sistema":  "Gigabyte Technology Co., Ltd.",
+        "Modelo_do_sistema":  "H310M S2H",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "172.20.0.15",
+        "Versão_do_BIOS":  "American Megatrends Inc. F16, 05/11/2021",
+        "Diretório_do_Windows":  "C:\\WINDOWS",
+        "Diretório_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "16.165 MB",
+        "Memória_física_disponível":  "11.721 MB",
+        "Memória_Virtual":  "Em Uso:                   4.252 MB",
+        "Local(s)_do_Arquivo_de_Página":  "C:\\pagefile.sys",
+        "Domínio":  "fernandescontabilidade.com",
+        "Servidor_de_Logon":  "\\\\FERNANDESNETO",
+        "Hotfix(es)":  "3 hotfix(es) instalado(s).",
+        "[02]":  "fe80::a2c9:979d:6bb7:3925",
+        "[03]":  "2804:6310:a00:d01:1c3a:b616:c8e1:938",
+        "Placa(s)_de_Rede":  "2 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Ethernet",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "172.20.0.1",
+        "[04]":  "2804:6310:a00:d01:4553:285a:77f1:74d3",
+        "Segurança_baseada_em_virtualização":  "Status: Executando",
+        "App_Control_for_Business_policy":  "Imposto",
+        "App_Control_for_Business_user_mode_policy":  "Desativado",
+        "Requisitos_do_Hyper-V":  "Hipervisor detectado. Recursos necessários para o Hyper-V não serão exibidos."
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AIDA64 Extreme v6.92"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.2.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Configurações da câmera Logitech"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Gestão Mais Simples versão 1.17.5.0 (Todos os usuários)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 381"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kriptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.24.28127"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.24.28127"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.24.28127"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.24.28127"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OCS Inventory NG Agent 2.6.0.0"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "03/03/2025_09:53:23",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Malwarebytes",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  637186076672,
+                                         "FreeSpace":  543337832448
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  322179166208,
+                                         "FreeSpace":  322066370560
+                                     },
+                                     {
+                                         "DeviceID":  "O",
+                                         "Size":  322549313536,
+                                         "FreeSpace":  60307156992
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:05"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Grupo",
+                                                                   "Name":  "Administradores do Domínio",
+                                                                   "PrincipalSource":  2
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "SUPORTE",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores do Hyper-V",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "fernandesneto",
+                                                                   "PrincipalSource":  2
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Grupo",
+                                                                   "Name":  "Usuários do Domínio",
+                                                                   "PrincipalSource":  2
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "ONLINEID",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "SUPORTE",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários da área de trabalho remota",
+                                                                   "ObjectClass":  "Grupo",
+                                                                   "Name":  "Usuários de Área de Trabalho Remota",
+                                                                   "PrincipalSource":  2
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "True",
+                                            "Requer_autenticacao_no_nivel_da_rede":  "False"
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1780410248-2374832442-31253820-1153",
+                                                                                  "ProfileImagePath":  "C:\\Users\\fernandesneto",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3705364764-203147796-3124935050-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Fernandes Neto",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3705364764-203147796-3124935050-1007",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ONLINEID",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

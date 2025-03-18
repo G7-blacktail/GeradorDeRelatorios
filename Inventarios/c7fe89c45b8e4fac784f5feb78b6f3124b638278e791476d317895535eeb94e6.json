@@ -1,0 +1,310 @@
+﻿[
+    {
+        "email":  "centronet3535@hotmail.com",
+        "CPF":  "02677328488"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-7JOU450",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "CentroNet",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-10000-00001-AA464",
+        "Data_da_instalação_original":  "04/08/2024, 16:14:26",
+        "Tempo_de_Inicialização_do_Sistema":  "31/01/2025, 19:12:22",
+        "Fabricante_do_sistema":  "Itautec S.A.",
+        "Modelo_do_sistema":  "Infoway w7730",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.1.6",
+        "Versão_do_BIOS":  "Infoway Note W7730,  1.02.08TIS3, 10/12/2012",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.085 MB",
+        "Memória_física_disponível":  "4.765 MB",
+        "Memória_Virtual":  "Em Uso:                   3.274 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-7JOU450",
+        "Hotfix(es)":  "14 hotfix(es) instalado(s).",
+        "[02]":  "Qualcomm Atheros AR5B125 Wireless Network Adapter",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "KB4557968",
+        "[05]":  "KB5011048",
+        "[06]":  "KB5011067",
+        "[07]":  "KB5015684",
+        "[08]":  "KB5033052",
+        "[09]":  "KB5046613",
+        "[10]":  "KB5039336",
+        "[11]":  "KB5041579",
+        "[12]":  "KB5043935",
+        "[13]":  "KB5043130",
+        "[14]":  "KB5046823",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.1.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.2.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Firebird 5.0.1.1469 (Win32)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GDOOR  PRO"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GDOOR  SLIM"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GDOOR PRO"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GDOOR SLIM"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Giesecke \u0026 Devrient GmbH StarSign CUT"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Herramientas de corrección de Microsoft Office 2016: español"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Access MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft DCF MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Excel MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Groove MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft InfoPath MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office OSM MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office OSM UX MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Professional Plus 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proofing (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proofing Tools 2016 - English"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Shared MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft OneNote MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Outlook MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft PowerPoint MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Publisher MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Skype for Business MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Word MUI (Portuguese (Brazil)) 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS Visual Studio Runtime libraries for x86"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Revisores de Texto do Microsoft Office 2016 – Português (Brasil)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TeamViewer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Wondershare Helper Compact 2.5.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Wondershare PDFelement(Build 7.3.4)"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/02/2025_09:53:46",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "ESET Security",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  479507165184,
+                                         "FreeSpace":  243519344640
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  52424704,
+                                         "FreeSpace":  20500480
+                                     },
+                                     {
+                                         "DeviceID":  "E",
+                                         "Size":  497414746112,
+                                         "FreeSpace":  473521545216
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "CentroNet",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR ANTONIO FABIO",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3253769487-3428776576-3325582769-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\CentroNet",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3253769487-3428776576-3325582769-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR ANTONIO FABIO",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3253769487-3428776576-3325582769-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  false
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  false
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  false
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

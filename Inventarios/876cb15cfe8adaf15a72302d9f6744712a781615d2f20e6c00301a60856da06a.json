@@ -1,0 +1,777 @@
+﻿[
+    {
+        "email":  "gdfcontabil@hotmail.com",
+        "CPF":  "52368246134"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-7BQSIIV",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Home Single Language",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Usuário do Windows",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00327-60000-00000-AA181",
+        "Data_da_instalação_original":  "30/09/2020, 01:36:20",
+        "Tempo_de_Inicialização_do_Sistema":  "21/01/2025, 11:47:39",
+        "Fabricante_do_sistema":  "SAMSUNG ELECTRONICS CO., LTD.",
+        "Modelo_do_sistema":  "670Z5E",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "172.20.200.56",
+        "Versão_do_BIOS":  "American Megatrends Inc. P05ADG.010.140421.SH, 21/04/2014",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.079 MB",
+        "Memória_física_disponível":  "822 MB",
+        "Memória_Virtual":  "Em Uso:                   15.816 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-7BQSIIV",
+        "Hotfix(es)":  "50 hotfix(es) instalado(s).",
+        "[02]":  "fe80::3722:468f:9f67:25ef",
+        "[03]":  "fd01:2345:6789:abcd:172:24:58:137",
+        "[04]":  "fd01:2345:6789:abcd:172:20:200:56",
+        "[05]":  "KB4577586",
+        "[06]":  "KB4580325",
+        "[07]":  "KB4586864",
+        "[08]":  "KB4589212",
+        "[09]":  "KB4593175",
+        "[10]":  "KB4598481",
+        "[11]":  "KB5000736",
+        "[12]":  "KB5011048",
+        "[13]":  "KB5011067",
+        "[14]":  "KB5012170",
+        "[15]":  "KB5015684",
+        "[16]":  "KB5049981",
+        "[17]":  "KB5006753",
+        "[18]":  "KB5007273",
+        "[19]":  "KB5011352",
+        "[20]":  "KB5011651",
+        "[21]":  "KB5014032",
+        "[22]":  "KB5014035",
+        "[23]":  "KB5014671",
+        "[24]":  "KB5015895",
+        "[25]":  "KB5016705",
+        "[26]":  "KB5018506",
+        "[27]":  "KB5020372",
+        "[28]":  "KB5022924",
+        "[29]":  "KB5023794",
+        "[30]":  "KB5025315",
+        "[31]":  "KB5026879",
+        "[32]":  "KB5028318",
+        "[33]":  "KB5028380",
+        "[34]":  "KB5029709",
+        "[35]":  "KB5031539",
+        "[36]":  "KB5032392",
+        "[37]":  "KB5032907",
+        "[38]":  "KB5034224",
+        "[39]":  "KB5036447",
+        "[40]":  "KB5037018",
+        "[41]":  "KB5037240",
+        "[42]":  "KB5037995",
+        "[43]":  "KB5039336",
+        "[44]":  "KB5041579",
+        "[45]":  "KB5043935",
+        "[46]":  "KB5043130",
+        "[47]":  "KB5046823",
+        "[48]":  "KB5050388",
+        "[49]":  "KB5005699",
+        "[50]":  "KB5034441",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Não",
+        "Servidor_DHCP":  "192.168.15.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe AIR"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Alcor Micro Smart Card Reader Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk MSI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assistente de Atualização do Windows 10"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "B209a-m"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Browser para SQL Server 2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BufferChm"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CAGEDNet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Calima App (32 bits)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Calima ERP Contábil - Aplicativos para Desktop 4.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Calima ERP Contábil versão 4.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Remote Desktop Host"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Token Signing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ClickFree versão 5.10.0.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Cliente de Certificação"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ClubTV version 2.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Componente de Segurança Bradesco"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Conectividade Social"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ConexãoNF-e A3 Beta versão 1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Definition Update for Microsoft Office 2010 (KB3115475) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Destinations"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DeviceDiscovery"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2019 - Declaração do Imposto sobre a Renda Retido na Fonte"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2020 - Declaração do Imposto sobre a Renda Retido na Fonte"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2021 - Declaração do Imposto sobre a Renda Retido na Fonte"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2022 - Declaração do Imposto sobre a Renda Retido na Fonte"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2023 - Declaração do Imposto sobre a Renda Retido na Fonte"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ELGIN Printer Driver v-1.6.3 versão v-1.6.3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ELGINUtilitySetup V1.2.2.12"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "eSocial A3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "FreeNFe"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Gerenciador de Documentos - Box"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GOSIGNER versão 1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GPBaseService2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GRRF Eletrônica"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Officejet Pro 6830 Ajuda"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HPPhotoGadget"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HPProductAssistant"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HPSSupply"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "I.R.I.S. OCR"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Impressão PDF"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Integration Services"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IP-TV Player 49.3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF 2024 - Declaração de Ajuste Anual, Final de Espólio e Saída Definitiva do País "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2017"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2018"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2020"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2016 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2017 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2018 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2019 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2020 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java(TM) 6 Update 29"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kryptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Help Viewer 2.3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Access MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Excel MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Groove MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office InfoPath MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office OneNote MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Outlook Connector"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Outlook MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office PowerPoint MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Professional Plus 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (English) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (Spanish) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proofing (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Publisher MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Shared MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Word MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft ReportViewer 2010 SP1 Redistributable (KB2549864)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft SQL Server Data-Tier Application Framework (x86) - pt-BR"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft SQL Server Management Studio - 18.12.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.29.30135"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.29.30135"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.29.30135"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.29.30135"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Tools for Applications 2017"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Mozilla Maintenance Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2005 CRT libraries"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Navegador C6 Bank"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Extensibility Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Localization Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "o-VPN SERPRO"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pacote de Idiomas do Microsoft Help Viewer 2.3 – PTB"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PDF Architect 6"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PL-2303 USB-to-Serial"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Provedor Microsoft Analysis Services OLE DB"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PS_AIO_06_B209a-m_SW_Min"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "QuickTransfer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek High Definition Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for CAPICOM (KB931906)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Access 2010 (KB4464527) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Excel 2010 (KB4484384) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft InfoPath 2010 (KB3114414) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2553313) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2553332) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2850016) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2880971) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2881029) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2956063) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2956076) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3114565) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3191908) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3203462) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3203468) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3213626) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3213631) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4011610) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4022206) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4022208) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4484126) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4484238) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4484266) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft OneNote 2010 (KB3114885) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Outlook 2010 (KB4475509) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Outlook 2010 (KB4484284) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft PowerPoint 2010 (KB4484235) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Publisher 2010 (KB4032216) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Visio 2010 (KB4462225) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Visio Viewer 2010 (KB2999465) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Word 2010 (KB4461625) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Word 2010 (KB4484295) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Shell isolado do Visual Studio 2017 para o pacote de idiomas do SSMS – Português (Brasil)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Sistemas Tron - TronServer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SolutionCenter"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SQL Server Management Studio for Analysis Services Localization"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SQL Server Management Studio for Reporting Services Localization"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Status"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TED versão 4.3.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Toolbox"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TrayApp"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Excel 2010 (KB2956084) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Filter Pack 2.0 (KB3114879) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft InfoPath 2010 (KB2817369) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2553140) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2553388) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2589298) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2589318) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2589339) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2589375) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2589386) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2597087) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2791057) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2825640) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2881030) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2883019) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB3054873) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB3054886) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB3055047) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB4092436) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB4461579) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB4461626) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB4462172) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB4462187) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Outlook 2010 (KB3114559) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Outlook Social Connector 2010 (KB2553308) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft PowerPoint 2010 (KB4022136) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft SharePoint Workspace 2010 (KB2760601) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Validador Sintegra 5.4.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Validador versão 2.0.9.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Visual Studio 2017 Isolated Shell for SSMS"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WebReg"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRAR 5.50 (32-bit)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Wondershare Helper Compact 2.6.0"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/02/2025_10:34:11",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  208339136512,
+                                         "FreeSpace":  50791059456
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  790487887872,
+                                         "FreeSpace":  632193298432
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:01",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "GILBERTO",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-754616122-2108017892-837143697-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\GILBERTO",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

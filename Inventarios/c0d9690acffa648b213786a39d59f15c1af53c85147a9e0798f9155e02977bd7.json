@@ -1,0 +1,621 @@
+﻿[
+    {
+        "email":  "gustavo_resende@live.com",
+        "CPF":  "09495486696"
+    },
+    {
+        "Nome_do_host":  "GUSTAVO2024",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versao_do_sistema_operacional":  "10.0.19045 N/A compilaçao 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuraçao_do_SO":  "Estaçao de trabalho autônoma",
+        "Tipo_de_compilaçao_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Gustavo",
+        "Organizaçao_registrada":  "",
+        "Identificaçao_do_produto":  "00330-80000-00000-AA797",
+        "Data_da_instalaçao_original":  "19/07/2021, 10:23:00",
+        "Tempo_de_Inicializaçao_do_Sistema":  "28/02/2025, 09:48:07",
+        "Fabricante_do_sistema":  "To Be Filled By O.E.M.",
+        "Modelo_do_sistema":  "To Be Filled By O.E.M.",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.15.116",
+        "Versao_do_BIOS":  "American Megatrends Inc. 080015 , 05/03/2018",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "en-us;Inglês (Estados Unidos)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "6.135 MB",
+        "Memória_física_disponível":  "1.303 MB",
+        "Memória_Virtual":  "Em Uso:                   5.621 MB",
+        "Local(is)_de_arquivo_de_paginaçao":  "C:\\pagefile.sys",
+        "Domínio":  "JETCONTABIL",
+        "Servidor_de_Logon":  "\\\\GUSTAVO2024",
+        "Hotfix(es)":  "22 hotfix(es) instalado(s).",
+        "[02]":  "fe80::9bbf:611f:8f40:886e",
+        "[03]":  "2804:1b3:3081:83aa:c34:5cba:365a:e42a",
+        "[04]":  "2804:1b3:3081:83aa:cd3b:9785:2608:4c03",
+        "[05]":  "KB5040427",
+        "[06]":  "KB5006753",
+        "[07]":  "KB5007273",
+        "[08]":  "KB5020372",
+        "[09]":  "KB5022924",
+        "[10]":  "KB5023794",
+        "[11]":  "KB5025315",
+        "[12]":  "KB5026879",
+        "[13]":  "KB5028318",
+        "[14]":  "KB5028380",
+        "[15]":  "KB5029709",
+        "[16]":  "KB5031539",
+        "[17]":  "KB5032392",
+        "[18]":  "KB5032907",
+        "[19]":  "KB5034224",
+        "[20]":  "KB5037995",
+        "[21]":  "KB5039336",
+        "[22]":  "KB5005699",
+        "Placa(s)_de_Rede":  "1 NIC(s) instalado(s).",
+        "Nome_da_conexao":  "Ethernet",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.15.1",
+        "Requisitos_do_Hyper-V":  "Extensao de Modo de Monitor VM: Sim",
+        "Virtualizaçao_Habilitada_no_Firmware":  "Sim",
+        "Conversao_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevençao_de_Execuçao_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  [
+                                       {
+                                           "System":  {
+                                                          "IPsec Driver":  "Sem Auditoria",
+                                                          "System Integrity":  "Exito e Falha",
+                                                          "Other System Events":  "Exito e Falha",
+                                                          "Security State Change":  "Exito",
+                                                          "Security System Extension":  "Sem Auditoria"
+                                                      }
+                                       },
+                                       {
+                                           "Logon/Logoff":  {
+                                                                "IPsec Extended Mode":  "Exito e Falha",
+                                                                "Logoff":  "Exito e Falha",
+                                                                "Other Logon/Logoff Events":  "Exito e Falha",
+                                                                "Special Logon":  "Exito e Falha",
+                                                                "Logon":  "Exito e Falha",
+                                                                "Group Membership":  "Exito e Falha",
+                                                                "Account Lockout":  "Exito e Falha",
+                                                                "Network Policy Server":  "Exito e Falha",
+                                                                "IPsec Quick Mode":  "Exito e Falha",
+                                                                "User / Device Claims":  "Exito e Falha",
+                                                                "IPsec Main Mode":  "Exito e Falha"
+                                                            }
+                                       },
+                                       {
+                                           "Object Access":  {
+                                                                 "Kernel Object":  "Sem Auditoria",
+                                                                 "File Share":  "Sem Auditoria",
+                                                                 "Central Policy Staging":  "Sem Auditoria",
+                                                                 "Filtering Platform Packet Drop":  "Sem Auditoria",
+                                                                 "Handle Manipulation":  "Sem Auditoria",
+                                                                 "Other Object Access Events":  "Sem Auditoria",
+                                                                 "Removable Storage":  "Sem Auditoria",
+                                                                 "Application Generated":  "Sem Auditoria",
+                                                                 "Filtering Platform Connection":  "Sem Auditoria",
+                                                                 "SAM":  "Sem Auditoria",
+                                                                 "Registry":  "Sem Auditoria",
+                                                                 "File System":  "Sem Auditoria",
+                                                                 "Certification Services":  "Sem Auditoria",
+                                                                 "Detailed File Share":  "Sem Auditoria"
+                                                             }
+                                       },
+                                       {
+                                           "Privilege Use":  {
+                                                                 "Other Privilege Use Events":  "Exito e Falha",
+                                                                 "Sensitive Privilege Use":  "Exito e Falha",
+                                                                 "Non Sensitive Privilege Use":  "Exito e Falha"
+                                                             }
+                                       },
+                                       {
+                                           "Detailed Tracking":  {
+                                                                     "Plug and Play Events":  "Sem Auditoria",
+                                                                     "RPC Events":  "Sem Auditoria",
+                                                                     "Token Right Adjusted Events":  "Sem Auditoria",
+                                                                     "Process Termination":  "Sem Auditoria",
+                                                                     "Process Creation":  "Sem Auditoria",
+                                                                     "DPAPI Activity":  "Sem Auditoria"
+                                                                 }
+                                       },
+                                       {
+                                           "Policy Change":  {
+                                                                 "Authorization Policy Change":  "Exito e Falha",
+                                                                 "Other Policy Change Events":  "Exito e Falha",
+                                                                 "Filtering Platform Policy Change":  "Exito e Falha",
+                                                                 "Audit Policy Change":  "Exito e Falha",
+                                                                 "Authentication Policy Change":  "Exito e Falha",
+                                                                 "MPSSVC Rule-Level Policy Change":  "Exito e Falha"
+                                                             }
+                                       },
+                                       {
+                                           "Account Management":  {
+                                                                      "Computer Account Management":  "Exito e Falha",
+                                                                      "Distribution Group Management":  "Exito e Falha",
+                                                                      "Security Group Management":  "Exito e Falha",
+                                                                      "User Account Management":  "Exito e Falha",
+                                                                      "Other Account Management Events":  "Exito e Falha",
+                                                                      "Application Group Management":  "Exito e Falha"
+                                                                  }
+                                       },
+                                       {
+                                           "DS Access":  {
+                                                             "Directory Service Access":  "Sem Auditoria",
+                                                             "Directory Service Replication":  "Sem Auditoria",
+                                                             "Detailed Directory Service Replication":  "Sem Auditoria",
+                                                             "Directory Service Changes":  "Sem Auditoria"
+                                                         }
+                                       },
+                                       {
+                                           "Account Logon":  {
+                                                                 "Credential Validation":  "Exito e Falha",
+                                                                 "Kerberos Service Ticket Operations":  "Exito e Falha",
+                                                                 "Kerberos Authentication Service":  "Exito e Falha",
+                                                                 "Other Account Logon Events":  "Exito e Falha"
+                                                             }
+                                       }
+                                   ],
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Acrobat DC"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Flash Player 32 NPAPI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Flash Player 32 PPAPI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Genuine Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Alterdata Backup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.2.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assistente de Instalação do Windows 11"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2024 - Declaração do Imposto sobre a Renda Retido na Fonte "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IObit Unlocker"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 251"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kriptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kryptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LAV Filters 0.74.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Letasoft Sound Booster 1.12.0.538"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.4053 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.42 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.51011 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.56336 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.57103 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.58299 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.59193 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.0 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.218 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30411 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.0 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4048 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148.0 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.5570 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010 Redistributable - x86 10.0.30319 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.50727 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.50727 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.51106 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.51106 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.51106 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.51106 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.51106 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.51106 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40649 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40649 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40649 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40649 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40649 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40649 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSXML 4.0 SP3 Parser"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MULTILASER Client Installation Program"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Extensibility Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Localization Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Programa de Instalação do Adaptador USB Wireless"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "psqlODBC"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SCR3xxx Smart Card Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Updater Diagnostico 2.0.3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI for Internet Explorer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows 7 USB/DVD Download Tool"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Wondershare Recoverit(Build 9.5.6.9)"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/03/2025_00:05:37",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+                                                    "time.windows.com,0x9_(Local)",
+                                                    "NtpServer_(Local)"
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  365930999808,
+                                         "FreeSpace":  189509451776
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  607121408,
+                                         "FreeSpace":  142045184
+                                     },
+                                     {
+                                         "DeviceID":  "E",
+                                         "Size":  593089261568,
+                                         "FreeSpace":  362590588928
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administrators",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrator",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Guests",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Guest",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Users",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrator",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-610796757-4113014160-3239692873-1007",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Gustavo",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-610796757-4113014160-3239692873-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrator",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  true,
+                                 "HistoricoSenhas":  "5",
+                                 "ComprimentoMinimoSenha":  "8",
+                                 "TempoMaximoSenha":  "30",
+                                 "TempoMinimoSenha":  "0",
+                                 "DuracaoBloqueioConta":  "30",
+                                 "LimiteBloqueioConta":  "5"
+                             }
+    }
+]

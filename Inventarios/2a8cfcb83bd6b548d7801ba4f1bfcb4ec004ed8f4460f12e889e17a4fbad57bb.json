@@ -1,0 +1,452 @@
+﻿[
+    {
+        "email":  "ideacontab@gmail.com",
+        "CPF":  "09095153959"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-RAEN71D",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.26100 N/A compilação 26100",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_sistema_operacional":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Eduardo",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80000-00000-AA044",
+        "Data_da_instalação_original":  "13/12/2024, 12:38:01",
+        "Tempo_de_Inicialização_do_Sistema":  "30/01/2025, 17:24:06",
+        "Fabricante_do_sistema":  "ASUS",
+        "Modelo_do_sistema":  "System Product Name",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.2.107",
+        "Versão_do_BIOS":  "American Megatrends Inc. 3002, 23/02/2023",
+        "Diretório_do_Windows":  "C:\\WINDOWS",
+        "Diretório_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume2",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "15.665 MB",
+        "Memória_física_disponível":  "1.804 MB",
+        "Memória_Virtual":  "Em Uso:                   33.418 MB",
+        "Local(s)_do_Arquivo_de_Página":  "D:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-RAEN71D",
+        "Hotfix(es)":  "4 hotfix(es) instalado(s).",
+        "[02]":  "TAP-Windows Adapter V9",
+        "[03]":  "2804:1530:106:e32c:c02d:8f80:c029:eb97",
+        "[04]":  "2804:1530:106:e32c:35b0:cd56:c6f7:9790",
+        "Placa(s)_de_Rede":  "2 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.2.1",
+        "[05]":  "2804:1530:106:e32c:140e:c8b:6b0d:fe47",
+        "[06]":  "2804:1530:106:e32c:51b8:97d5:957a:1001",
+        "Status":  "Mídia desconectada",
+        "Segurança_baseada_em_virtualização":  "Status: Não habilitado",
+        "App_Control_for_Business_policy":  "Imposto",
+        "App_Control_for_Business_user_mode_policy":  "Desativado",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Não",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Acesso Remoto - Dominio Sistemas"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AMD Chipset Software"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AMD GPIO2 Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AMD PCI Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AMD PSP Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AMD Ryzen Balanced Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AMD SBxxx SMBus Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AMD_Chipset_Drivers"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Aplicativo Itaú"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController - AllUsers"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ASUS AIOFan HAL"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ASUS Ambient HAL"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ASUS AURA Extension Card HAL"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ASUS AURA Motherboard HAL"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ASUS Framework Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ASUS Motherboard"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ASUS Update Helper"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AURA DRAM Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AURA lighting effect add-on"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AURA Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Busca - NF-e Escritório5.31"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Remote Desktop Host"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Desinstalar GED-Desktop"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2023 - Declaração do Imposto sobre a Renda Retido na Fonte"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2024 - Declaração do Imposto sobre a Renda Retido na Fonte "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Contábil"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Utilitários"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Web Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EFD Contribuições PVA"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ENE RGB HAL"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ENE_EHD_M2_HAL"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GameSDK Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GOSIGNER versão 1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GRRF Eletrônica"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2020"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2019 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2020 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2021 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ITR2022 - Declaração do Imposto sobre a Propriedade Territorial Rural"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kingston AURA DRAM Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kriptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.16 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.38.33130"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.38.33130"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.38.33130"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.38.33130"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI Afterburner 4.6.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Navegador C6 Bank"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OBS Studio"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Extensibility Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Localization Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Patriot Viper DRAM RGB"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Patriot Viper M2 SSD RGB"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pesquisa Anual de Comércio 2023 (Completo) - Módulo Informante"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pesquisa Anual de Comércio 2023 (Simplificado) - Módulo Informante"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pesquisa Anual Industrial da Construção 2023 - Módulo Informante"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PHISON HAL"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Promontory_GPIO Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Ethernet Controller Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "RivaTuner Statistics Server 7.3.4"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Rockstar Games Launcher"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Rockstar Games Social Club"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Sped ECF PVA"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SQL Anywhere"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Steam"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TechPowerUp GPU-Z"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Universal Holtek RGB DRAM"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WD_BLACK AN1500"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web Signer"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/02/2025_21:21:51",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  127224356864,
+                                         "FreeSpace":  25220005888
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  500105736192,
+                                         "FreeSpace":  240831397888
+                                     },
+                                     {
+                                         "DeviceID":  "H",
+                                         "Size":  127224356864,
+                                         "FreeSpace":  23959003136
+                                     },
+                                     {
+                                         "DeviceID":  "J",
+                                         "Size":  127224356864,
+                                         "FreeSpace":  23959003136
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:01:40",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Eduardo",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários de log de desempenho",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Eduardo",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-61016710-3464999963-1064749888-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Eduardo",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

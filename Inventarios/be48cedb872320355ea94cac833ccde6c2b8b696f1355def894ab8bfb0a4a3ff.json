@@ -1,0 +1,304 @@
+﻿[
+    {
+        "email":  "marielly.monize@gmail.com",
+        "CPF":  "00640721265"
+    },
+    {
+        "Nome_do_host":  "SILVANA",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19044 N/A compilação 19044",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Silvana",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80000-00000-AA041",
+        "Data_da_instalação_original":  "20/03/2021, 17:50:52",
+        "Tempo_de_Inicialização_do_Sistema":  "11/02/2025, 14:15:32",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "Vostro 3500",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "172.18.243.149",
+        "Versão_do_BIOS":  "Dell Inc. A10, 25/10/2010",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "3.895 MB",
+        "Memória_física_disponível":  "1.061 MB",
+        "Memória_Virtual":  "Em Uso:                   3.062 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "ESCRITORIO",
+        "Servidor_de_Logon":  "\\\\SILVANA",
+        "Hotfix(es)":  "22 hotfix(es) instalado(s).",
+        "[02]":  "fe80::81fb:2323:4e3f:12ef",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "KB4577586",
+        "[05]":  "KB4580325",
+        "[06]":  "KB4586864",
+        "[07]":  "KB4589212",
+        "[08]":  "KB5003791",
+        "[09]":  "KB5012170",
+        "[10]":  "KB5022282",
+        "[11]":  "KB5006753",
+        "[12]":  "KB5007273",
+        "[13]":  "KB5011352",
+        "[14]":  "KB5011651",
+        "[15]":  "KB5014032",
+        "[16]":  "KB5014035",
+        "[17]":  "KB5014671",
+        "[18]":  "KB5015895",
+        "[19]":  "KB5016705",
+        "[20]":  "KB5018506",
+        "[21]":  "KB5020372",
+        "[22]":  "KB5005699",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "172.18.255.254",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother MFL-Pro Suite DCP-L2540DW series"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DIEF2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DIEF2022.1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DIEF2023.1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Foxit Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Ghostscript GPL 8.64 (Msi Setup)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Giesecke \u0026 Devrient GmbH StarSign CUT"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "hppLaserJetService"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "hppM1130M1210SeriesLaserJetService"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "hppusgM1130M1210Series"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ICPBravoAccess.Extension"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Instalação Menu de Aplicações Netspeed"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 411"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MarketResearch"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.21.27702"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Tools for Applications 2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Netspeed Menu"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Netspeed Starter"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "NetspeedRuntimePackage"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TED versão 5.3.13"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "11/02/2025_14:27:49",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  499518201856,
+                                         "FreeSpace":  189660033024
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LISERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LISERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "impressora",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2429694503-1962386888-1261287540-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Silvana",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2429694503-1962386888-1261287540-1003",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ARCERTFY",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2429694503-1962386888-1261287540-1004",
+                                                                                  "ProfileImagePath":  "C:\\Users\\suporte",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

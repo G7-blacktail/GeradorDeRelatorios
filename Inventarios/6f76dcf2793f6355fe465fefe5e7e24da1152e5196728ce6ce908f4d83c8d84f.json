@@ -1,0 +1,334 @@
+﻿[
+    {
+        "email":  "financeiro@gruposuprema.com.br",
+        "CPF":  "04492597140"
+    },
+    {
+
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  [
+                                       {
+                                           "Sistema":  {
+                                                           "Alteração no estado de segurança":  "Êxito",
+                                                           "Driver IPsec":  "Sem Auditoria",
+                                                           "Integridade do sistema":  "Êxito e Falha",
+                                                           "Extensão do sistema de segurança":  "Sem Auditoria",
+                                                           "Outros Eventos do Sistema":  "Êxito e Falha"
+                                                       }
+                                       },
+                                       {
+                                           "Logon/logoff":  {
+                                                                "Servidor de Política de Rede":  "Êxito e Falha",
+                                                                "Logoff":  "Êxito",
+                                                                "Associação a um Grupo":  "Sem Auditoria",
+                                                                "Modo estendido do IPsec":  "Sem Auditoria",
+                                                                "Bloqueio de conta":  "Êxito",
+                                                                "Logon":  "Êxito e Falha",
+                                                                "Modo rápido do IPsec":  "Sem Auditoria",
+                                                                "Modo principal do IPsec":  "Sem Auditoria",
+                                                                "Logon especial":  "Êxito",
+                                                                "Outros eventos de logon/logoff":  "Sem Auditoria",
+                                                                "Declarações do Usuário/Dispositivo":  "Sem Auditoria"
+                                                            }
+                                       },
+                                       {
+                                           "Acesso a objetos":  {
+                                                                    "Conexão de Plataforma de Filtragem":  "Sem Auditoria",
+                                                                    "Preparo da Política Central":  "Sem Auditoria",
+                                                                    "Objeto Kernel":  "Sem Auditoria",
+                                                                    "Aplicativo gerado":  "Sem Auditoria",
+                                                                    "Armazenamento Removível":  "Sem Auditoria",
+                                                                    "Registro":  "Sem Auditoria",
+                                                                    "Compartilhamento de arquivos":  "Sem Auditoria",
+                                                                    "Manipulação de Identificador":  "Sem Auditoria",
+                                                                    "Sistema de arquivos":  "Sem Auditoria",
+                                                                    "Compartilhamento de arquivos detalhado":  "Sem Auditoria",
+                                                                    "Descarte de Pacote de Plataforma de Filtragem":  "Sem Auditoria",
+                                                                    "SAM":  "Sem Auditoria",
+                                                                    "Serviços de certificação":  "Sem Auditoria",
+                                                                    "Outros Eventos de Acesso a Objetos":  "Sem Auditoria"
+                                                                }
+                                       },
+                                       {
+                                           "Uso de privilégios":  {
+                                                                      "Uso de Privilégio Não Importante":  "Sem Auditoria",
+                                                                      "Uso de Privilégio Importante":  "Sem Auditoria",
+                                                                      "Outros Eventos de Uso de Privilégios":  "Sem Auditoria"
+                                                                  }
+                                       },
+                                       {
+                                           "Monitoração detalhada":  {
+                                                                         "Eventos Plug and Play":  "Sem Auditoria",
+                                                                         "Eventos Ajustados ao Direito de Token":  "Sem Auditoria",
+                                                                         "Criação de processo":  "Sem Auditoria",
+                                                                         "Atividade DPAPI":  "Sem Auditoria",
+                                                                         "Terminação de processo":  "Sem Auditoria",
+                                                                         "Eventos de RPC":  "Sem Auditoria"
+                                                                     }
+                                       },
+                                       {
+                                           "Alteração de política":  {
+                                                                         "Alteração na política de autenticação":  "Êxito",
+                                                                         "Alteração na Política de Autorização":  "Sem Auditoria",
+                                                                         "Alteração na política de nível de regra MPSSVC":  "Sem Auditoria",
+                                                                         "Alteração na Política da Plataforma de Filtragem":  "Sem Auditoria",
+                                                                         "Outros eventos de alteração de política ":  "Sem Auditoria",
+                                                                         "Auditoria de alteração de políticas":  "Êxito"
+                                                                     }
+                                       },
+                                       {
+                                           "Gerenciamento de contas":  {
+                                                                           "Outros Eventos de Gerenciamento de Contas":  "Sem Auditoria",
+                                                                           "Gerenciamento de conta de computador":  "Sem Auditoria",
+                                                                           "Gerenciamento de conta de usuário":  "Êxito",
+                                                                           "Gerenciamento de grupo de distribuição":  "Sem Auditoria",
+                                                                           "Gerenciamento de grupo de segurança":  "Êxito",
+                                                                           "Gerenciamento de grupo de aplicativos":  "Sem Auditoria"
+                                                                       }
+                                       },
+                                       {
+                                           "Acesso DS":  {
+                                                             "Acesso ao serviço de diretório":  "Sem Auditoria",
+                                                             "Replicação do serviço de diretório":  "Sem Auditoria",
+                                                             "Replicação detalhada do serviço de diretório":  "Sem Auditoria",
+                                                             "Alterações no serviço de diretório":  "Sem Auditoria"
+                                                         }
+                                       },
+                                       {
+                                           "Logon de conta":  {
+                                                                  "Operações do Tíquete de serviço Kerberos":  "Sem Auditoria",
+                                                                  "Outros Eventos de Logon de Conta":  "Sem Auditoria",
+                                                                  "Serviço de Autenticação Kerberos":  "Sem Auditoria",
+                                                                  "Validação de Credenciais":  "Sem Auditoria"
+                                                              }
+                                       }
+                                   ],
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.2.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DAPISEF - Versão 9.04.00"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2024 - Declaração do Imposto sobre a Renda Retido na Fonte "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "eContinuo versão 1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EFD Contribuições PVA"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Firebird 2.1.1.17910 (Win32)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Firebird/InterBase(r) ODBC driver 2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP LaserJet 400 M401"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Unified IO"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Lightshot-5.5.0.7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MarketUP Desktop"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34433"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34433"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34433"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34433"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2005 CRT libraries"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Extensibility Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Localization Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pesquisa Anual Industrial da Construção 2021 - Módulo Informante"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet BX"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung DeX"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Sped ECF PVA"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Sped Fiscal 2.1.1-SNAPSHOT"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TEDSEF - Transmissor Eletrônico de Documentos SEF/MG - V. 1.07."
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/02/2025_10:05:38",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+                                                    "time.windows.com,0x9_(Local)",
+                                                    "NtpServer_(Local)"
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "ESET Security",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "ESET Security",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "ESET Security",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  238877143040,
+                                         "FreeSpace":  131106263040
+                                     },
+                                     {
+                                         "DeviceID":  "S",
+                                         "Size":  912102780928,
+                                         "FreeSpace":  264046407680
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Note Suprema",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2706238421-1843079354-3302280717-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Note Suprema",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  false
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  false
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  false
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  "0",
+                                 "ComprimentoMinimoSenha":  "0",
+                                 "TempoMaximoSenha":  "42",
+                                 "TempoMinimoSenha":  "0",
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  "0"
+                             }
+    }
+]

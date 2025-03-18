@@ -1,0 +1,551 @@
+﻿[
+    {
+        "email":  "davils.lima9@gmail.com",
+        "CPF":  "03665547199"
+    },
+    {
+        "Nome_do_host":  "ARLIDERSIS-SUP",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho membro",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "williansilva634@hotmail.com",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-20306-26639-AA206",
+        "Data_da_instalação_original":  "21/11/2023, 10:43:47",
+        "Tempo_de_Inicialização_do_Sistema":  "24/12/2024, 08:02:28",
+        "Fabricante_do_sistema":  "Gigabyte Technology Co., Ltd.",
+        "Modelo_do_sistema":  "H510M H",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.0.12",
+        "Versão_do_BIOS":  "American Megatrends International, LLC. F14, 25/03/2022",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "16.253 MB",
+        "Memória_física_disponível":  "8.820 MB",
+        "Memória_Virtual":  "Em Uso:                   7.884 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "rede.lidersis",
+        "Servidor_de_Logon":  "\\\\DC",
+        "Hotfix(es)":  "21 hotfix(es) instalado(s).",
+        "[02]":  "Intel(R) Dual Band Wireless-AC 7265",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "KB5011067",
+        "[05]":  "KB5015684",
+        "[06]":  "KB5020683",
+        "[07]":  "KB5048652",
+        "[08]":  "KB5014032",
+        "[09]":  "KB5025315",
+        "[10]":  "KB5032392",
+        "[11]":  "KB5032907",
+        "[12]":  "KB5034224",
+        "[13]":  "KB5036447",
+        "[14]":  "KB5037018",
+        "[15]":  "KB5037240",
+        "[16]":  "KB5037995",
+        "[17]":  "KB5039336",
+        "[18]":  "KB5041579",
+        "[19]":  "KB5043935",
+        "[20]":  "KB5043130",
+        "[21]":  "KB5046823",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.0.254",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "@BIOS"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.6"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AmbientLED"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "APP Center"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.1.0-java7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DefaultPackMSI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EasyTune"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EasyTuneEngineService"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Ferramentas de Build do Visual Studio 2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GService"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Chipset Device Software"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Wireless Bluetooth(R)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 391"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kits Configuration Installer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Launcher Prerequisites (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LightPDF Editor"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Lightshot-5.5.0.7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Framework 4.8.1 SDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Framework 4.8.1 Targeting Pack"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Search in Bing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.40.33810"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.40.33810"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Debug Runtime - 14.29.30153"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33810"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33810"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Setup Configuration"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Setup WMI Provider"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 3.1.0 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI Development Tools"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "NVIDIA Stereoscopic 3D Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Parsec"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Python Launcher"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Ethernet Controller Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SDK ARM Additions"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SDK ARM Redistributables"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SDK Debuggers"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SIV"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Smart Backup (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Teams Machine-Wide Installer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Universal CRT Extension SDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Universal CRT Headers Libraries and Sources"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Universal CRT Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Universal CRT Tools x86"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Universal General MIDI DLS Extension SDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "vcpp_crt.redist.clickonce"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "vs_FileTracker_Singleton"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WebSigner Extension"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinAppDeploy"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows App Certification Kit SupportedApiList x86"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows App Certification Kit x64"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows App Certification Kit x64 (OnecoreUAP)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Desktop Extension SDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Desktop Extension SDK Contracts"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows IoT Extension SDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows IoT Extension SDK Contracts"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows IP Over USB"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Mobile Extension SDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Mobile Extension SDK Contracts"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK AddOn"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK ARM Desktop Tools"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Headers arm"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Headers arm64"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Headers x64"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Headers x86"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Libs arm"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Libs arm64"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Libs x64"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Libs x86"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Tools arm64"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Tools x64"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Desktop Tools x86"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK DirectX x86 Remote"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK EULA"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Facade Windows WinMD Versioned"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK for Windows Store Apps"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK for Windows Store Apps Contracts"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK for Windows Store Apps DirectX x86 Remote"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK for Windows Store Apps Headers"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK for Windows Store Apps Libs"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK for Windows Store Apps Metadata"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK for Windows Store Apps Tools"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK for Windows Store Managed Apps Libs"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Modern Non-Versioned Developer Tools"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Modern Versioned Developer Tools"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Redistributables"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows SDK Signing Tools"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Software Development Kit - Windows 10.0.19041.685"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Software Development Kit - Windows 10.0.22621.2428"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Team Extension SDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Team Extension SDK Contracts"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRT Intellisense Desktop - en-us"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRT Intellisense Desktop - Other Languages"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRT Intellisense IoT - en-us"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRT Intellisense IoT - Other Languages"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRT Intellisense Mobile - en-us"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRT Intellisense PPI - en-us"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRT Intellisense PPI - Other Languages"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRT Intellisense UAP - en-us"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRT Intellisense UAP - Other Languages"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WPT Redistributables"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WPTx64 (DesktopEditions)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WPTx64 (OnecoreUAP)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Yarn"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "02/01/2025_11:57:13",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  499425849344,
+                                         "FreeSpace":  73446690816
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Grupo",
+                                                                   "Name":  "Domain Admins",
+                                                                   "PrincipalSource":  2
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Grupo",
+                                                                   "Name":  "Domain Users",
+                                                                   "PrincipalSource":  2
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2908413221-1125918390-3645388666-1000",
+                                                                                  "ProfileImagePath":  "C:\\Users\\defaultuser0",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2908413221-1125918390-3645388666-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\willi",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2908413221-1125918390-3645388666-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador.ARLIDERSIS-SUP",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1125",
+                                                                                  "ProfileImagePath":  "C:\\Users\\willian",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1150",
+                                                                                  "ProfileImagePath":  "C:\\Users\\davi.lima",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1154",
+                                                                                  "ProfileImagePath":  "C:\\Users\\lucas.magalhaes",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

@@ -1,0 +1,398 @@
+﻿[
+    {
+        "email":  "luizgnt@hotmail.com",
+        "CPF":  "98586505153"
+    },
+    {
+        "Nome_do_host":  "PC-ECON116-164",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Luiz",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-20315-86723-AA049",
+        "Data_da_instalação_original":  "28/03/2024, 20:58:06",
+        "Tempo_de_Inicialização_do_Sistema":  "03/03/2025, 16:40:29",
+        "Fabricante_do_sistema":  "VAIO",
+        "Modelo_do_sistema":  "VJF155F11X-B0311B",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.2.75",
+        "Versão_do_BIOS":  "Positivo Informatica SA 1.07.09X, 13/06/2018",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.082 MB",
+        "Memória_física_disponível":  "4.363 MB",
+        "Memória_Virtual":  "Em Uso:                   3.564 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "SOLUTI",
+        "Servidor_de_Logon":  "\\\\PC-ECON116-164",
+        "Hotfix(es)":  "20 hotfix(es) instalado(s).",
+        "[02]":  "Realtek PCIe GbE Family Controller",
+        "[03]":  "Bluetooth Device (Personal Area Network)",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB5015684",
+        "[06]":  "KB5051974",
+        "[07]":  "KB5014032",
+        "[08]":  "KB5032907",
+        "[09]":  "KB5036447",
+        "[10]":  "KB5037018",
+        "[11]":  "KB5037240",
+        "[12]":  "KB5037995",
+        "[13]":  "KB5039336",
+        "[14]":  "KB5041579",
+        "[15]":  "KB5043935",
+        "[16]":  "KB5043130",
+        "[17]":  "KB5046823",
+        "[18]":  "KB5050388",
+        "[19]":  "KB5050111",
+        "[20]":  "KB5034441",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.2.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "D3DX10"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ePass2003"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Connect Printer Setup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Event Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Photo+"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Printer Connection Checker"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Scan 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Scan OCR Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Scan PDF Extensions"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson ScanSmart"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Software Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Galeria de Fotos"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Update Helper"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Dropbox Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP EmailSMTP Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP FTP Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Google Drive Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Ink Tank Wireless 410 series Ajuda"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP OneDrive Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP SFTP Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP SharePoint Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 291"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 411"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Manual Epson L3250_L3251"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MediaHuman YouTube to MP3 Converter 3.9.9.97"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft SQL Server 2005 Compact Edition [ENU]"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27027"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2017 X86 Additional Runtime - 14.16.27024"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2017 X86 Minimum Runtime - 14.16.27024"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Movie Maker"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSVCRT"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSVCRT110"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OCS Inventory NG Agent 2.6.0.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Extensibility Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Localization Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Photo Common"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Photo Gallery"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PhotoScape"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Live Communications Platform"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Live Essentials"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Live Installer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Live Photo Common"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Live PIMT Platform"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Live SOXE"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Live SOXE Definitions"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Live UX Platform"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Windows Live UX Platform Language Pack"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "03/03/2025_16:42:12",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  217741180928,
+                                         "FreeSpace":  11942215680
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  21580738560,
+                                         "FreeSpace":  8836702208
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Adm",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Luiz",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "ECON116-164",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Adm",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Luiz",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR116-164",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2891497673-259581688-797335726-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Luiz",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2891497673-259581688-797335726-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ECON116-164",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2891497673-259581688-797335726-1004",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ECON116-164.DESKTOP-PHFE6L3",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2891497673-259581688-797335726-1005",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR116-164",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2891497673-259581688-797335726-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]
