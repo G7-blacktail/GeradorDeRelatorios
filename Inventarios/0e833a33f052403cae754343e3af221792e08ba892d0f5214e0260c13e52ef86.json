@@ -1,0 +1,301 @@
+﻿[
+    {
+        "email":  "protegeautoserv@gmail.com",
+        "CPF":  "06932396492"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-FKKAIBU",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22000 N/A compilação 22000",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Fabinho Vicente",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80000-00000-AA335",
+        "Data_da_instalação_original":  "29/01/2024, 18:07:48",
+        "Tempo_de_Inicialização_do_Sistema":  "05/08/2024, 12:22:43",
+        "Fabricante_do_sistema":  "Sony Corporation",
+        "Modelo_do_sistema":  "VPCEG15FB",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "172.20.10.8",
+        "Versão_do_BIOS":  "INSYDE R0230Z8, 23/06/2011",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.140 MB",
+        "Memória_física_disponível":  "4.450 MB",
+        "Memória_Virtual":  "Em Uso:                   3.429 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-FKKAIBU",
+        "Hotfix(es)":  "7 hotfix(es) instalado(s).",
+        "[02]":  "fe80::9ded:a1eb:cf8e:59ac",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "Realtek 8822BU Wireless LAN 802.11ac USB NIC",
+        "[05]":  "Bluetooth Device (Personal Area Network)",
+        "[06]":  "KB5031591",
+        "[07]":  "KB5006755",
+        "Placa(s)_de_Rede":  "5 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Conexão de Rede Bluetooth",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "172.20.10.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Acrobat DC"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Genuine Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Desktop 2.7.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Easy Photo Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Connect Printer Setup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Easy Photo Print 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Event Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Photo+"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Printer Connection Checker"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Scan 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Scan OCR Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Scan PDF Extensions"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson ScanSmart"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Software Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Gerenciador do Correspondente BB Multiexecução 8.5.3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel Driver \u0026\u0026 Support Assistant"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Wireless Bluetooth(R)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel® Driver \u0026 Support Assistant"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Basic/C++ Runtime (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31332"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31332"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.32.31332"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.32.31332"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek USB Wireless LAN Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek USB Wireless LAN Utility"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WaSenderSetUp"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Wondershare Recoverit(Build 12.6.0.7)"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "05/08/2024_12:25:43",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  213142990848,
+                                         "FreeSpace":  49350922240
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:01",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Fabinho Vicente",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Fabiano",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-914913654-2150417561-1053983733-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Fabinho Vicente",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-914913654-2150417561-1053983733-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR Fabiano",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-914913654-2150417561-1053983733-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

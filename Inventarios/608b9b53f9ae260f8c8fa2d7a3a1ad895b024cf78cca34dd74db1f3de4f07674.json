@@ -1,0 +1,281 @@
+﻿[
+    {
+        "email":  "mcertificadodigital@gmail.com",
+        "CPF":  "08773911496"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-B5ROFU9",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "mayaragoia26@hotmail.com",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-20312-90923-AA658",
+        "Data_da_instalação_original":  "01/03/2023, 02:20:05",
+        "Tempo_de_Inicialização_do_Sistema":  "02/08/2024, 15:21:21",
+        "Fabricante_do_sistema":  "Acer",
+        "Modelo_do_sistema":  "Aspire F5-573G",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.1.4",
+        "Versão_do_BIOS":  "Insyde Corp. V1.27, 26/05/2017",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Caiena, Fortaleza",
+        "Memória_física_total":  "8.060 MB",
+        "Memória_física_disponível":  "3.434 MB",
+        "Memória_Virtual":  "Em Uso:                   4.697 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-B5ROFU9",
+        "Hotfix(es)":  "28 hotfix(es) instalado(s).",
+        "[02]":  "fe80::3c6e:6566:a2bc:b6cd",
+        "[03]":  "Realtek PCIe GbE Family Controller",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB5011067",
+        "[06]":  "KB5012170",
+        "[07]":  "KB5015684",
+        "[08]":  "KB5020683",
+        "[09]":  "KB5040427",
+        "[10]":  "KB5020372",
+        "[11]":  "KB5022924",
+        "[12]":  "KB5023794",
+        "[13]":  "KB5025315",
+        "[14]":  "KB5026879",
+        "[15]":  "KB5028318",
+        "[16]":  "KB5028380",
+        "[17]":  "KB5029709",
+        "[18]":  "KB5031539",
+        "[19]":  "KB5032392",
+        "[20]":  "KB5032907",
+        "[21]":  "KB5034224",
+        "[22]":  "KB5036447",
+        "[23]":  "KB5037018",
+        "[24]":  "KB5037240",
+        "[25]":  "KB5037995",
+        "[26]":  "KB5039336",
+        "[27]":  "KB5005699",
+        "[28]":  "KB5034441",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.1.254",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Apple Software Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.2.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Easy Photo Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Connect Printer Setup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Easy Photo Print 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Event Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Printer Connection Checker"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Scan 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Software Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "iMyFone LockWiper 8.0.2.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kryptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Manual Epson L3150"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee Safe Connect"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.50727"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.24.28127"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29913"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29913"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29913"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "NoteBook FanControl"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek PC Camera"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEDIF-SN  1.0.6.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "02/08/2024_15:25:55",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  120038879232,
+                                         "FreeSpace":  5915463680
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  999593865216,
+                                         "FreeSpace":  149381738496
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3047574664-3982593255-3846463439-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\mayar",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

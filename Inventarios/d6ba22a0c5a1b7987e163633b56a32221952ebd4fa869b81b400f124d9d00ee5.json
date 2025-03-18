@@ -1,0 +1,177 @@
+﻿[
+    {
+        "email":  "anavinavesbreidenbach@gmail.com",
+        "CPF":  "70234737697"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-9G60J3N",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22631 N/A compilação 22631",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Certweb.2024@hotmail.com",
+        "Organização_registrada":  "N/A",
+        "Identificação_do_produto":  "00330-80117-74044-AA192",
+        "Data_da_instalação_original":  "16/04/2024, 11:05:58",
+        "Tempo_de_Inicialização_do_Sistema":  "28/10/2024, 10:36:14",
+        "Fabricante_do_sistema":  "LENOVO",
+        "Modelo_do_sistema":  "82MD",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "172.24.15.229",
+        "Versão_do_BIOS":  "LENOVO GGCN57WW, 06/09/2023",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "3.879 MB",
+        "Memória_física_disponível":  "364 MB",
+        "Memória_Virtual":  "Em Uso:                   4.319 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-9G60J3N",
+        "Hotfix(es)":  "5 hotfix(es) instalado(s).",
+        "[02]":  "fe80::5765:6621:3b38:da2f",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "KB5044285",
+        "[05]":  "KB5046247",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "172.24.31.254",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/11/2024_07:48:41",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  126340407296,
+                                         "FreeSpace":  53289861120
+                                     },
+                                     {
+                                         "DeviceID":  "G",
+                                         "Size":  16106127360,
+                                         "FreeSpace":  1585065984
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2276170658-1781646363-2270414910-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Certw",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

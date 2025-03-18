@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeradorRelatorioAutomatico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53b781e1d534d2da6612786d3c089958ff8ac86d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeradorRelatorioAutomatico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeradorRelatorioAutomatico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,222 @@
+﻿[
+    {
+        "email":  "MARIZONMJ@HOTMAIL.COM",
+        "CPF":  "04637504112"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-BRBS1OD",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "user",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-10000-00001-AA357",
+        "Data_da_instalação_original":  "17/03/2023, 10:58:14",
+        "Tempo_de_Inicialização_do_Sistema":  "11/04/2024, 08:24:12",
+        "Fabricante_do_sistema":  "SAMSUNG ELECTRONICS CO., LTD.",
+        "Modelo_do_sistema":  "550XDA",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.15.7",
+        "Versão_do_BIOS":  "American Megatrends International, LLC. P21CFB.051.240224.HQ, 24/02/2024",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "3.820 MB",
+        "Memória_física_disponível":  "1.000 MB",
+        "Memória_Virtual":  "Em Uso:                   4.315 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-BRBS1OD",
+        "Hotfix(es)":  "23 hotfix(es) instalado(s).",
+        "[02]":  "Realtek PCIe GbE Family Controller",
+        "[03]":  "Bluetooth Device (Personal Area Network)",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB5012170",
+        "[06]":  "KB5015684",
+        "[07]":  "KB5020683",
+        "[08]":  "KB5036892",
+        "[09]":  "KB5014032",
+        "[10]":  "KB5016705",
+        "[11]":  "KB5022924",
+        "[12]":  "KB5023794",
+        "[13]":  "KB5025315",
+        "[14]":  "KB5026879",
+        "[15]":  "KB5028318",
+        "[16]":  "KB5028380",
+        "[17]":  "KB5029709",
+        "[18]":  "KB5031539",
+        "[19]":  "KB5032392",
+        "[20]":  "KB5032907",
+        "[21]":  "KB5034224",
+        "[22]":  "KB5036447",
+        "[23]":  "KB5037018",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.15.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Driver Booster 8.3.0.370"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "VLC media player"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "17/04/2024_14:14:28",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  127345180672,
+                                         "FreeSpace":  23709786112
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4192646022-3124518533-1093938018-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\user",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4192646022-3124518533-1093938018-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ARCERTFY",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

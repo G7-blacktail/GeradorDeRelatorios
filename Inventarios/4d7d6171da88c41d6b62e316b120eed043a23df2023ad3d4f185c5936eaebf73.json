@@ -1,0 +1,216 @@
+﻿[
+    {
+        "email":  "camile@azevedoassessoria.com.br",
+        "CPF":  "19171231757"
+    },
+    {
+        "Nome_do_host":  "RIO-005",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versao_do_sistema_operacional":  "10.0.22000 N/A compilaçao 22000",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuraçao_do_SO":  "Estaçao de trabalho autônoma",
+        "Tipo_de_compilaçao_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Camile Frinhani",
+        "Organizaçao_registrada":  "N/A",
+        "Identificaçao_do_produto":  "00331-20313-90472-AA545",
+        "Data_da_instalaçao_original":  "29/06/2024, 04:32:05",
+        "Tempo_de_Inicializaçao_do_Sistema":  "28/10/2024, 15:56:53",
+        "Fabricante_do_sistema":  "LENOVO",
+        "Modelo_do_sistema":  "82QD",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.1.105",
+        "Versao_do_BIOS":  "LENOVO JKCN29WW, 20/06/2022",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "en-us;Inglês (Estados Unidos)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "7.916 MB",
+        "Memória_física_disponível":  "747 MB",
+        "Memória_Virtual":  "Em Uso:                   11.547 MB",
+        "Local(is)_de_arquivo_de_paginaçao":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\RIO-005",
+        "Hotfix(es)":  "5 hotfix(es) instalado(s).",
+        "[02]":  "TAP-Windows Adapter V9",
+        "[03]":  "KB5011048",
+        "[04]":  "KB5031358",
+        "[05]":  "KB5031591",
+        "Placa(s)_de_Rede":  "2 NIC(s) instalado(s).",
+        "Nome_da_conexao":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.1.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Hipervisor detectado. Recursos necessários para o Hyper-V nao serao exibidos."
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ePass2003"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Lenovo Now"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Lenovo Vantage Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24212"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "UltraViewer version 6.6.108"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WebAdvisor by McAfee"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/11/2024_09:48:12",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "McAfee",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  251575398400,
+                                         "FreeSpace":  55136661504
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  2096099328,
+                                         "FreeSpace":  2079170560
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administrators",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administrators",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Suporte",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Guests",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Guest",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Users",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR CAMILE FRINHANI",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1541465447-3955535172-1381891974-1003",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Camile Frinhani",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1541465447-3955535172-1381891974-1005",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Suporte",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

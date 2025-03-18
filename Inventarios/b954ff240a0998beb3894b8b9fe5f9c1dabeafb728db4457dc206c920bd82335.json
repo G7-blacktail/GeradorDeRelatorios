@@ -1,0 +1,406 @@
+﻿[
+    {
+        "email":  "janiocarvalho@gmail.com",
+        "CPF":  "63341239120"
+    },
+    {
+        "Nome_do_host":  "CERTIFICADODIGI",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "America",
+        "Organização_registrada":  "Microsoft",
+        "Identificação_do_produto":  "00330-80000-00000-AA748",
+        "Data_da_instalação_original":  "20/12/2021, 13:17:24",
+        "Tempo_de_Inicialização_do_Sistema":  "16/10/2023, 08:55:43",
+        "Fabricante_do_sistema":  "ECS",
+        "Modelo_do_sistema":  "H55H-M",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.1.68",
+        "Versão_do_BIOS":  "American Megatrends Inc. 080016 , 13/09/2010",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.183 MB",
+        "Memória_física_disponível":  "1.597 MB",
+        "Memória_Virtual":  "Em Uso:                   7.627 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "KYAG",
+        "Servidor_de_Logon":  "\\\\CERTIFICADODIGI",
+        "Hotfix(es)":  "27 hotfix(es) instalado(s).",
+        "[02]":  "fe80::3a13:5946:2cc0:b758",
+        "[03]":  "TP-Link Gigabit PCI Express Adapter",
+        "[04]":  "KB5011048",
+        "[05]":  "KB5011067",
+        "[06]":  "KB5012170",
+        "[07]":  "KB5015684",
+        "[08]":  "KB5031356",
+        "[09]":  "KB5007273",
+        "[10]":  "KB5011352",
+        "[11]":  "KB5011651",
+        "[12]":  "KB5014032",
+        "[13]":  "KB5014035",
+        "[14]":  "KB5014671",
+        "[15]":  "KB5015895",
+        "[16]":  "KB5016705",
+        "[17]":  "KB5018506",
+        "[18]":  "KB5020372",
+        "[19]":  "KB5022924",
+        "[20]":  "KB5023794",
+        "[21]":  "KB5025315",
+        "[22]":  "KB5026879",
+        "[23]":  "KB5028318",
+        "[24]":  "KB5028380",
+        "[25]":  "KB5029709",
+        "[26]":  "KB5031539",
+        "[27]":  "KB5003242",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Ethernet 3",
+        "Status":  "Hardware ausente",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.1.254",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Acrobat XI Pro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk MSI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Bitvise SSH Client - FlowSshNet (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Bitvise SSH Client 8.53 (remove only)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brave"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BraZip 9.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CameraHelperMsi"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Camtasia 2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Token Signing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Componente de Segurança Bradesco"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Easy Printer Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "erLT"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "InstaladorMsiBradesco"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Wireless Bluetooth(R)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 361"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Lightshot-5.5.0.7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Logitech Webcam Software"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LWS Facebook"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LWS Gallery"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LWS Help_main"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LWS Launcher"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LWS Motion Detection"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LWS Pictures And Video"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LWS Twitter"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LWS Webcam Software"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LWS WLM Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LWS YouTube Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40649"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40649"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40649"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40649"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2005 CRT libraries"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSXML 4.0 SP2 Parser and SDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "NVIDIA Stereoscopic 3D Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Extensibility Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Localization Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PedidoOK versão 1.0.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PlugIn Repeater Versão 2.0.1.4"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SCR3xxx Smart Card Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "UltraViewer version 6.6.26"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WebSigner Extension"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WhatsApp Marketing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Xerox Phaser 3250"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Xerox WorkCentre 3325"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "16/10/2023_10:28:49",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  118991114240,
+                                         "FreeSpace":  8356388864
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  133460066304,
+                                         "FreeSpace":  86983544832
+                                     },
+                                     {
+                                         "DeviceID":  "E",
+                                         "Size":  26578251776,
+                                         "FreeSpace":  25911160832
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "02:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "America",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Janio",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2320522051-1850811373-1592431367-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\America",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2320522051-1850811373-1592431367-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR Janio",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2320522051-1850811373-1592431367-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-82-271721585-897601226-2024613209-625570482-296978595",
+                                                                                  "ProfileImagePath":  "C:\\Users\\.NET v4.5",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-82-3006700770-424185619-1745488364-794895919-4004696415",
+                                                                                  "ProfileImagePath":  "C:\\Users\\DefaultAppPool",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-82-3876422241-1344743610-1729199087-774402673-2621913236",
+                                                                                  "ProfileImagePath":  "C:\\Users\\.NET v4.5 Classic",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

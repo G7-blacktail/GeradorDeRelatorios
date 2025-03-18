@@ -1,0 +1,308 @@
+﻿[
+    {
+        "email":  "elielton@taxplanassessoria.com.br",
+        "CPF":  "03566221180"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-R99A512",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22631 N/A compilação 22631",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "W11PRO",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-20300-00000-AA264",
+        "Data_da_instalação_original":  "29/11/2022, 08:50:01",
+        "Tempo_de_Inicialização_do_Sistema":  "27/09/2024, 20:06:24",
+        "Fabricante_do_sistema":  "Acer",
+        "Modelo_do_sistema":  "Aspire A515-52G",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.68.105",
+        "Versão_do_BIOS":  "Insyde Corp. V1.14, 24/05/2019",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.040 MB",
+        "Memória_física_disponível":  "645 MB",
+        "Memória_Virtual":  "Em Uso:                   12.748 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-R99A512",
+        "Hotfix(es)":  "5 hotfix(es) instalado(s).",
+        "[02]":  "fe80::634a:b56:d77f:504e",
+        "[03]":  "Qualcomm Atheros QCA9377 Wireless Network Adapter",
+        "[04]":  "Bluetooth Device (Personal Area Network)",
+        "[05]":  "KB5040568",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Conexão de Rede Bluetooth 2",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.68.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController - AllUsers"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Token Signing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DMA_2012"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dmed 2023 - Declaração de Serviços Médicos e de Saúde"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Web Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ePass2003"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Foxit Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "FSist"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GO-Global Client"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Update Helper"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GOSIGNER versão 1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kriptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "LetsView V1.1.5.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.23.27820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.23.27820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.23.27820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ModuloAssinador versão 1.0.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Navegador C6 Bank"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pesquisa Anual de Serviços 2023 - Módulo Informante"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet BX"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Sicalc Auto Atendimento"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SIEG"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRAR 5.21 (32-bit)"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/10/2024_05:58:43",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  628378038272,
+                                         "FreeSpace":  2047950848
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  371058536448,
+                                         "FreeSpace":  316123185152
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "ADM",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "W11PRO",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "ADM",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "W11PRO",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2052281795-4260632571-1505427593-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\W11PRO",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2052281795-4260632571-1505427593-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ADM",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

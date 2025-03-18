@@ -1,0 +1,426 @@
+﻿[
+    {
+        "email":  "jmsuporte@yahoo.com",
+        "CPF":  "01548975311"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-3SHDM2L",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Nitro 5",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-10000-00001-AA400",
+        "Data_da_instalação_original":  "23/05/2024, 16:07:22",
+        "Tempo_de_Inicialização_do_Sistema":  "19/10/2024, 14:45:01",
+        "Fabricante_do_sistema":  "Acer",
+        "Modelo_do_sistema":  "Nitro AN517-51",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.255.3",
+        "Versão_do_BIOS":  "Insyde Corp. V1.33, 17/11/2020",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume3",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.029 MB",
+        "Memória_física_disponível":  "2.983 MB",
+        "Memória_Virtual":  "Em Uso:                   6.190 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-3SHDM2L",
+        "Hotfix(es)":  "17 hotfix(es) instalado(s).",
+        "[02]":  "Realtek Gaming GbE Family Controller",
+        "[03]":  "Bluetooth Device (Personal Area Network)",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB5011067",
+        "[06]":  "KB5015684",
+        "[07]":  "KB5020683",
+        "[08]":  "KB5033052",
+        "[09]":  "KB5044273",
+        "[10]":  "KB5037240",
+        "[11]":  "KB5037995",
+        "[12]":  "KB5039336",
+        "[13]":  "KB5041579",
+        "[14]":  "KB5043935",
+        "[15]":  "KB5043130",
+        "[16]":  "KB5003503",
+        "[17]":  "KB5046400",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.255.47",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  [
+                                       {
+                                           "Sistema":  {
+                                                           "Alteração no estado de segurança":  "Êxito e Falha",
+                                                           "Driver IPsec":  "Êxito e Falha",
+                                                           "Integridade do sistema":  "Êxito e Falha",
+                                                           "Extensão do sistema de segurança":  "Êxito e Falha",
+                                                           "Outros Eventos do Sistema":  "Êxito e Falha"
+                                                       }
+                                       },
+                                       {
+                                           "Logon/logoff":  {
+                                                                "Servidor de Política de Rede":  "Êxito e Falha",
+                                                                "Logoff":  "Êxito e Falha",
+                                                                "Associação a um Grupo":  "Êxito e Falha",
+                                                                "Modo estendido do IPsec":  "Êxito e Falha",
+                                                                "Bloqueio de conta":  "Êxito e Falha",
+                                                                "Logon":  "Êxito e Falha",
+                                                                "Modo rápido do IPsec":  "Êxito e Falha",
+                                                                "Modo principal do IPsec":  "Êxito e Falha",
+                                                                "Logon especial":  "Êxito e Falha",
+                                                                "Outros eventos de logon/logoff":  "Êxito e Falha",
+                                                                "Declarações do Usuário/Dispositivo":  "Êxito e Falha"
+                                                            }
+                                       },
+                                       {
+                                           "Acesso a objetos":  {
+                                                                    "Conexão de Plataforma de Filtragem":  "Êxito e Falha",
+                                                                    "Preparo da Política Central":  "Êxito e Falha",
+                                                                    "Objeto Kernel":  "Êxito e Falha",
+                                                                    "Aplicativo gerado":  "Êxito e Falha",
+                                                                    "Armazenamento Removível":  "Êxito e Falha",
+                                                                    "Registro":  "Êxito e Falha",
+                                                                    "Compartilhamento de arquivos":  "Êxito e Falha",
+                                                                    "Manipulação de Identificador":  "Êxito e Falha",
+                                                                    "Sistema de arquivos":  "Êxito e Falha",
+                                                                    "Compartilhamento de arquivos detalhado":  "Êxito e Falha",
+                                                                    "Descarte de Pacote de Plataforma de Filtragem":  "Êxito e Falha",
+                                                                    "SAM":  "Êxito e Falha",
+                                                                    "Serviços de certificação":  "Êxito e Falha",
+                                                                    "Outros Eventos de Acesso a Objetos":  "Êxito e Falha"
+                                                                }
+                                       },
+                                       {
+                                           "Uso de privilégios":  {
+                                                                      "Uso de Privilégio Não Importante":  "Êxito e Falha",
+                                                                      "Uso de Privilégio Importante":  "Êxito e Falha",
+                                                                      "Outros Eventos de Uso de Privilégios":  "Êxito e Falha"
+                                                                  }
+                                       },
+                                       {
+                                           "Monitoração detalhada":  {
+                                                                         "Eventos Plug and Play":  "Êxito e Falha",
+                                                                         "Eventos Ajustados ao Direito de Token":  "Êxito e Falha",
+                                                                         "Criação de processo":  "Êxito e Falha",
+                                                                         "Atividade DPAPI":  "Êxito e Falha",
+                                                                         "Terminação de processo":  "Êxito e Falha",
+                                                                         "Eventos de RPC":  "Êxito e Falha"
+                                                                     }
+                                       },
+                                       {
+                                           "Alteração de política":  {
+                                                                         "Alteração na política de autenticação":  "Êxito e Falha",
+                                                                         "Alteração na Política de Autorização":  "Êxito e Falha",
+                                                                         "Alteração na política de nível de regra MPSSVC":  "Êxito e Falha",
+                                                                         "Alteração na Política da Plataforma de Filtragem":  "Êxito e Falha",
+                                                                         "Outros eventos de alteração de política ":  "Êxito e Falha",
+                                                                         "Auditoria de alteração de políticas":  "Êxito e Falha"
+                                                                     }
+                                       },
+                                       {
+                                           "Gerenciamento de contas":  {
+                                                                           "Outros Eventos de Gerenciamento de Contas":  "Êxito e Falha",
+                                                                           "Gerenciamento de conta de computador":  "Êxito e Falha",
+                                                                           "Gerenciamento de conta de usuário":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de distribuição":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de segurança":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de aplicativos":  "Êxito e Falha"
+                                                                       }
+                                       },
+                                       {
+                                           "Acesso DS":  {
+                                                             "Acesso ao serviço de diretório":  "Êxito e Falha",
+                                                             "Replicação do serviço de diretório":  "Êxito e Falha",
+                                                             "Replicação detalhada do serviço de diretório":  "Êxito e Falha",
+                                                             "Alterações no serviço de diretório":  "Êxito e Falha"
+                                                         }
+                                       },
+                                       {
+                                           "Logon de conta":  {
+                                                                  "Operações do Tíquete de serviço Kerberos":  "Êxito e Falha",
+                                                                  "Outros Eventos de Logon de Conta":  "Êxito e Falha",
+                                                                  "Serviço de Autenticação Kerberos":  "Êxito e Falha",
+                                                                  "Validação de Credenciais":  "Êxito e Falha"
+                                                              }
+                                       }
+                                   ],
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Acrobat XI Pro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Alterdata Backup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Any Video Converter 9.0.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.2.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Configurações da câmera Logitech"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ePass2003"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epic Games Launcher"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epic Online Services"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Firebird 2.5.9.27139 (Win32)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Griaule FingerCap USB Driver vr. 2.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kriptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Launcher Prerequisites (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Primary Interoperability Assemblies 2005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.25.28508"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.25.28508"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.25.28508"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2005 CRT libraries"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Extensibility Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Localization Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PDF24 Creator 9.2.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PL-2303 USB-to-Serial"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PL23XX USB-to-Serial"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Sistema SCA"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Tempo de Execução do Microsoft Report Viewer 2012"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Updater Diagnostico 2.0.3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "VeraCrypt"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Versão 2024"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "19/10/2024_14:52:10",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  493495779328,
+                                         "FreeSpace":  313008783360
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  1000185262080,
+                                         "FreeSpace":  607363510272
+                                     },
+                                     {
+                                         "DeviceID":  "G",
+                                         "Size":  214748364800,
+                                         "FreeSpace":  125745397760
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Nitro 5",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "PC-ADMIN",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "PC-ADMIN",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "PC-AGR",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1250601621-1772790229-1995801885-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Nitro 5",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1250601621-1772790229-1995801885-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\PC-ADMIN",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1250601621-1772790229-1995801885-1003",
+                                                                                  "ProfileImagePath":  "C:\\Users\\PC-AGR",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  true,
+                                 "HistoricoSenhas":  "0",
+                                 "ComprimentoMinimoSenha":  "8",
+                                 "TempoMaximoSenha":  "30",
+                                 "TempoMinimoSenha":  "0",
+                                 "DuracaoBloqueioConta":  "30",
+                                 "LimiteBloqueioConta":  "3"
+                             }
+    }
+]

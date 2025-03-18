@@ -1,0 +1,257 @@
+﻿[
+    {
+        "email":  "alexander.cassio@hotmail.com",
+        "CPF":  "14209186805"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-HP57IMK",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19044 N/A compilação 19044",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "user",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-10000-00001-AA143",
+        "Data_da_instalação_original":  "07/12/2019, 06:30:33",
+        "Tempo_de_Inicialização_do_Sistema":  "21/05/2024, 16:06:06",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "OptiPlex GX620",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.18.7",
+        "Versão_do_BIOS":  "Dell Inc.                 A11, 30/11/2006",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "3.574 MB",
+        "Memória_física_disponível":  "429 MB",
+        "Memória_Virtual":  "Em Uso:                   5.142 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-HP57IMK",
+        "Hotfix(es)":  "9 hotfix(es) instalado(s).",
+        "[02]":  "fe80::c854:1001:c040:1ed7",
+        "[03]":  "KB4557968",
+        "[04]":  "KB4561600",
+        "[05]":  "KB4577266",
+        "[06]":  "KB4577586",
+        "[07]":  "KB5003791",
+        "[08]":  "KB5014699",
+        "[09]":  "KB5014035",
+        "Placa(s)_de_Rede":  "1 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Ethernet",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.18.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Não",
+        "Virtualização_Habilitada_no_Firmware":  "Não",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Não",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Aplicativo Itaú"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother MFL-Pro Suite MFC-7460DN"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dell SupportAssist OS Recovery Plugin for Dell Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Foxit Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Giesecke \u0026 Devrient GmbH StarSign CUT"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Impressão PDF"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IOB Gerencia XML"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 261"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 291"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 333"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "K-Lite Codec Pack 15.7.5 Full"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kryptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 5.0.17 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.14 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Minha Gestão Contábil"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Sicalc Auto Atendimento"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SoftMaker FreeOffice 2018"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TeamViewer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "VALID 1.0.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WebAdvisor da McAfee"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "03/06/2024_14:36:42",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  119437701120,
+                                         "FreeSpace":  50231386112
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:01:40",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:15:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "user",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3680529813-779398070-1097921422-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\user",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3680529813-779398070-1097921422-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-82-3006700770-424185619-1745488364-794895919-4004696415",
+                                                                                  "ProfileImagePath":  "C:\\Users\\DefaultAppPool",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

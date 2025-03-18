@@ -1,0 +1,243 @@
+﻿[
+    {
+        "email":  "liana_kell@hotmail.com",
+        "CPF":  "66306027300"
+    },
+    {
+        "Host_Name":  "LAPTOP-0CMBCUMP",
+        "OS_Name":  "Microsoft Windows 11 Pro",
+        "OS_Version":  "10.0.22631 N/A Build 22631",
+        "OS_Manufacturer":  "Microsoft Corporation",
+        "OS_Configuration":  "Standalone Workstation",
+        "OS_Build_Type":  "Multiprocessor Free",
+        "Registered_Owner":  "liana_kell@hotmail.com",
+        "Registered_Organization":  "N/A",
+        "Product_ID":  "00331-20020-00000-AA974",
+        "Original_Install_Date":  "3/16/2023, 1:38:25 AM",
+        "System_Boot_Time":  "11/15/2024, 10:45:57 AM",
+        "System_Manufacturer":  "Microsoft Corporation",
+        "System_Model":  "Surface Laptop 4",
+        "System_Type":  "x64-based PC",
+        "Processor(s)":  "1 Processor(s) Installed.",
+        "[01]":  "172.18.246.192",
+        "BIOS_Version":  "Microsoft Corporation 4.300.140, 7/30/2024",
+        "Windows_Directory":  "C:\\WINDOWS",
+        "System_Directory":  "C:\\WINDOWS\\system32",
+        "Boot_Device":  "\\Device\\HarddiskVolume1",
+        "System_Locale":  "en-us;English (United States)",
+        "Input_Locale":  "en-us;English (United States)",
+        "Time_Zone":  "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+        "Total_Physical_Memory":  "7,631 MB",
+        "Available_Physical_Memory":  "1,205 MB",
+        "Virtual_Memory":  "In Use:    8,019 MB",
+        "Page_File_Location(s)":  "C:\\pagefile.sys",
+        "Domain":  "WORKGROUP",
+        "Logon_Server":  "\\\\LAPTOP-0CMBCUMP",
+        "Hotfix(s)":  "6 Hotfix(s) Installed.",
+        "[02]":  "fe80::ce26:5239:f5af:d34",
+        "[03]":  "2603:3005:29eb:8100:959c:f017:aab4:404d",
+        "[04]":  "2603:3005:29eb:8100:771b:54f8:4ac8:41ff",
+        "[05]":  "2603:3005:29eb:8100::ec5a",
+        "[06]":  "KB5044620",
+        "Network_Card(s)":  "2 NIC(s) Installed.",
+        "Connection_Name":  "OVPN Serpro",
+        "DHCP_Enabled":  "Yes",
+        "DHCP_Server":  "172.18.255.254",
+        "Hyper-V_Requirements":  "A hypervisor has been detected. Features required for Hyper-V will not be displayed."
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT version 1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BrLauncher"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BrLogRx"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother iPrint\u0026Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother PowerENGAGE"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother Printer Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother Scanner Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BrSupportTools"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ControlCenter4"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ControlCenter4 CSDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Foxit PDF Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Update Helper"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HowToGuide"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HttpToUsbBridge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee Security Scan Plus"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.23.27820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.23.27820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.23.27820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.23.27820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "NetworkRepairTool"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PowerENGAGE"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ScannerUtilityInstaller"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SoftwareUpdateNotification"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "StatusMonitor"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TeamViewer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "UltraViewer version 6.4.7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "UsbRepairTool"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "15/11/2024_12:47:51",
+                    "ServidorHorarioUtilizado":  "Collecting_1_samples.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  253808865280,
+                                         "FreeSpace":  151941459968
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:01:03",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2578295324-1258780684-324442795-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\liana",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2578295324-1258780684-324442795-1005",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AR LIDERSIS",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2578295324-1258780684-324442795-1006",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR LIDERSIS",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

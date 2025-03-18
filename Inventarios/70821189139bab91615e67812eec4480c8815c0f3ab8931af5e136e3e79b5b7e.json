@@ -1,0 +1,292 @@
+﻿[
+    {
+        "email":  "rcarvalho@ogroncontabilidade.com.br",
+        "CPF":  "43448010839"
+    },
+    {
+        "Nome_do_host":  "STEPHANIE",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22631 N/A compilação 22631",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "rama.carvalho94@hotmail.com",
+        "Organização_registrada":  "N/A",
+        "Identificação_do_produto":  "00330-80000-00000-AA834",
+        "Data_da_instalação_original":  "20/01/2023, 23:01:36",
+        "Tempo_de_Inicialização_do_Sistema":  "02/09/2024, 16:02:00",
+        "Fabricante_do_sistema":  "Acer",
+        "Modelo_do_sistema":  "Aspire A315-58",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.1.20",
+        "Versão_do_BIOS":  "Insyde Corp. V1.28, 22/04/2022",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "7.971 MB",
+        "Memória_física_disponível":  "1.124 MB",
+        "Memória_Virtual":  "Em Uso:                   8.298 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\STEPHANIE",
+        "Hotfix(es)":  "5 hotfix(es) instalado(s).",
+        "[02]":  "Realtek PCIe GbE Family Controller",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "KB5041587",
+        "[05]":  "KB5041586",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.1.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Acer Configuration Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Acer Jumpstart"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BB Assinatura Digital versão 2.3.10"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Token Signing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Componente de Segurança Bradesco"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2023 - Declaração do Imposto sobre a Renda Retido na Fonte"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2024 - Declaração do Imposto sobre a Renda Retido na Fonte "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dmed 2023 - Declaração de Serviços Médicos e de Saúde"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ELGIN Printer Driver v1.7.6"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ExpressVPN"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GOSIGNER versão 1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GRRF Eletrônica"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kryptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29334"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 3.1.0 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ModuloAssinador versão 1.0.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2017 CRT libraries for x86"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Navegador Exclusivo Bradesco versão 4.1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Norton Security Ultra"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung M2070 Series"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung OCR Software"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung Printer Center"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung Universal Scan Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Uninstall Samsung Printer Software"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "02/09/2024_16:50:50",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "Norton Security Ultra",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  254863732736,
+                                         "FreeSpace":  133830664192
+                                     },
+                                     {
+                                         "DeviceID":  "G",
+                                         "Size":  16106127360,
+                                         "FreeSpace":  11251150848
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:01"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Ramaelson",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-28518379-761469689-2205725764-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ramac",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "98LtyAB1lXg=",
+  "dgSpecHash": "F69A9reW2VM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\GeradorRelatorioAutomatico.csproj",
+  "projectFilePath": "c:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\GeradorRelatorioAutomatico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gustavo.fernandes\\.nuget\\packages\\epplus\\4.5.2.1\\epplus.4.5.2.1.nupkg.sha512",
     "C:\\Users\\gustavo.fernandes\\.nuget\\packages\\epplus.dataextractor\\2.2.0\\epplus.dataextractor.2.2.0.nupkg.sha512",

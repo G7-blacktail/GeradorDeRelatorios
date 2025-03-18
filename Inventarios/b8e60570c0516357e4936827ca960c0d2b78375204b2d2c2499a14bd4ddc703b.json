@@ -1,0 +1,299 @@
+﻿[
+    {
+        "email":  "katheishi.lider@gmail.com",
+        "CPF":  "28594074808"
+    },
+    {
+        "Nome_do_host":  "AGR-KATHERINE",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "katheishi.lider@gmail.com",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80000-00000-AA932",
+        "Data_da_instalação_original":  "07/11/2024, 12:39:35",
+        "Tempo_de_Inicialização_do_Sistema":  "18/11/2024, 08:44:31",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "Inspiron 3470",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.1.128",
+        "Versão_do_BIOS":  "Dell Inc. 2.13.0, 29/05/2019",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.007 MB",
+        "Memória_física_disponível":  "3.385 MB",
+        "Memória_Virtual":  "Em Uso:                   5.967 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\AGR-KATHERINE",
+        "Hotfix(es)":  "7 hotfix(es) instalado(s).",
+        "[02]":  "Qualcomm QCA9565 802.11b/g/n Wireless Adapter",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "KB5044273",
+        "[05]":  "KB5014032",
+        "[06]":  "KB5032907",
+        "[07]":  "KB5043130",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.1.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppLogLibSetup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "B1 Free Archiver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BrLauncher"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BrLogRx"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother PCFax Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother Printer Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother Scanner Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BrSupportTools"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ControlCenter4"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ControlCenter4 CSDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Contábil"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "eContinuo versão 1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HowToGuide"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "NetworkRepairTool"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PC-FAXReceive"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PCFaxTx"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "RemoteSetup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ScannerUtilityInstaller"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SCR3xxx Smart Card Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SQL Anywhere"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "StatusMonitor"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "UsbRepairTool"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "18/11/2024_13:04:51",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  894639292416,
+                                         "FreeSpace":  832741683200
+                                     },
+                                     {
+                                         "DeviceID":  "G",
+                                         "Size":  16106127360,
+                                         "FreeSpace":  9217523712
+                                     },
+                                     {
+                                         "DeviceID":  "X",
+                                         "Size":  959828717568,
+                                         "FreeSpace":  763395538944
+                                     },
+                                     {
+                                         "DeviceID":  "Z",
+                                         "Size":  959828717568,
+                                         "FreeSpace":  763395538944
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR-Katherine",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3826743857-686199579-957277877-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\kathe",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3826743857-686199579-957277877-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  false
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

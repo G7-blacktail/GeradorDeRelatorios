@@ -1,0 +1,190 @@
+﻿[
+    {
+        "email":  "Cellardoor073@gmail.com",
+        "CPF":  "09057225905"
+    },
+    {
+        "Nome_do_host":  "BRUNAO",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22631 N/A compilação 22631",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "cellardoor073@gmail.com",
+        "Organização_registrada":  "N/A",
+        "Identificação_do_produto":  "00330-54285-07100-AAOEM",
+        "Data_da_instalação_original":  "27/07/2024, 23:54:28",
+        "Tempo_de_Inicialização_do_Sistema":  "29/08/2024, 21:25:39",
+        "Fabricante_do_sistema":  "Acer",
+        "Modelo_do_sistema":  "Aspire A315-24P",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.217.51",
+        "Versão_do_BIOS":  "Insyde Corp. V1.11, 07/07/2023",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "7.413 MB",
+        "Memória_física_disponível":  "929 MB",
+        "Memória_Virtual":  "Em Uso:                   12.491 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\BRUNAO",
+        "Hotfix(es)":  "6 hotfix(es) instalado(s).",
+        "[02]":  "Bluetooth Device (Personal Area Network)",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "KB5041655",
+        "[05]":  "KB5040442",
+        "[06]":  "KB5039338",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.217.171",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Hipervisor detectado. Recursos necessários para o Hyper-V não serão exibidos."
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Desktop 2.7.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Priston Tale Brasil versão 4.22.7"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/09/2024_00:05:24",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  255120633856,
+                                         "FreeSpace":  128139366400
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Bruna",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3608984600-3081583953-3269075570-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\cella",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3608984600-3081583953-3269075570-1005",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR Bruna",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

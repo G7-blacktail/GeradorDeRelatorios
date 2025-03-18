@@ -1,0 +1,249 @@
+﻿[
+    {
+        "email":  "mainderdigital@gmail.com",
+        "CPF":  "05560747505"
+    },
+    {
+        "Nome_do_host":  "ASUSTUF-GAMINGF",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22631 N/A compilação 22631",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Henrique Costa",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80181-55073-AA380",
+        "Data_da_instalação_original":  "07/11/2024, 16:23:20",
+        "Tempo_de_Inicialização_do_Sistema":  "08/11/2024, 16:09:54",
+        "Fabricante_do_sistema":  "ASUSTeK COMPUTER INC.",
+        "Modelo_do_sistema":  "ASUS TUF Gaming F15 FX507ZC4_FX507ZC4",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.0.101",
+        "Versão_do_BIOS":  "American Megatrends International, LLC. FX507ZC4.310, 20/02/2024",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "16.003 MB",
+        "Memória_física_disponível":  "10.107 MB",
+        "Memória_Virtual":  "Em Uso:                   5.846 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\ASUSTUF-GAMINGF",
+        "Hotfix(es)":  "4 hotfix(es) instalado(s).",
+        "[02]":  "fe80::765a:a264:a23d:c94b",
+        "[03]":  "2804:508:11a5:4001:fdf2:41a5:464c:c64f",
+        "[04]":  "TAP-Windows Adapter V9",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.0.1",
+        "Requisitos_do_Hyper-V":  "Hipervisor detectado. Recursos necessários para o Hyper-V não serão exibidos."
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.2.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ASUS Smart Display Control"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Configurações da câmera Logitech"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Exibir Manual do Usuário"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 431"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung Scan Process Machine"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Xerox B205 Multifunction Printer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Xerox Easy Document Creator"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Xerox Easy Printer Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Xerox Easy Wireless Setup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Xerox OCR Software"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Xerox PowerENGAGE"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Xerox Scan Process Machine"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "08/11/2024_16:11:19",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  406312710144,
+                                         "FreeSpace":  336676605952
+                                     },
+                                     {
+                                         "DeviceID":  "G",
+                                         "Size":  16106127360,
+                                         "FreeSpace":  7617880064
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:37",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:03:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Henrique Costa",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-417356023-2330232259-4094896684-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Henrique Costa",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-82-271721585-897601226-2024613209-625570482-296978595",
+                                                                                  "ProfileImagePath":  "C:\\Users\\.NET v4.5",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-82-3876422241-1344743610-1729199087-774402673-2621913236",
+                                                                                  "ProfileImagePath":  "C:\\Users\\.NET v4.5 Classic",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

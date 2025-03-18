@@ -1,0 +1,346 @@
+﻿[
+    {
+        "email":  "regis@relpz.com.br",
+        "CPF":  "04656583189"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-9INM7N6",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22621 N/A compilação 22621",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Usuário do Windows",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-81617-90544-AA996",
+        "Data_da_instalação_original":  "15/02/2024, 15:55:40",
+        "Tempo_de_Inicialização_do_Sistema":  "27/02/2024, 15:30:57",
+        "Fabricante_do_sistema":  "Avell",
+        "Modelo_do_sistema":  "B.ON",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "172.18.255.110",
+        "Versão_do_BIOS":  "INSYDE Corp. 1.07.06TBN, 29/03/2023",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-04:00) Cuiabá",
+        "Memória_física_total":  "16.088 MB",
+        "Memória_física_disponível":  "9.199 MB",
+        "Memória_Virtual":  "Em Uso:                   8.331 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "N/A",
+        "Hotfix(es)":  "4 hotfix(es) instalado(s).",
+        "[02]":  "fe80::31f7:c90:d71:b0cc",
+        "[03]":  "fd12:3456:7890::ac12:ff6e",
+        "[04]":  "2804:14c:7563:414c:bbb7:f3cc:2302:60c6",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Não",
+        "Servidor_DHCP":  "192.168.0.1",
+        "Requisitos_do_Hyper-V":  "Hipervisor detectado. Recursos necessários para o Hyper-V não serão exibidos."
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  [
+                                       {
+                                           "Sistema":  {
+                                                           "Alteração no estado de segurança":  "Êxito",
+                                                           "Driver IPsec":  "Sem Auditoria",
+                                                           "Integridade do sistema":  "Êxito e Falha",
+                                                           "Extensão do sistema de segurança":  "Sem Auditoria",
+                                                           "Outros Eventos do Sistema":  "Êxito e Falha"
+                                                       }
+                                       },
+                                       {
+                                           "Logon/logoff":  {
+                                                                "Servidor de Política de Rede":  "Êxito e Falha",
+                                                                "Logoff":  "Êxito e Falha",
+                                                                "Associação a um Grupo":  "Êxito e Falha",
+                                                                "Modo estendido do IPsec":  "Êxito e Falha",
+                                                                "Bloqueio de conta":  "Êxito e Falha",
+                                                                "Logon":  "Êxito e Falha",
+                                                                "Modo rápido do IPsec":  "Êxito e Falha",
+                                                                "Modo principal do IPsec":  "Êxito e Falha",
+                                                                "Logon especial":  "Êxito e Falha",
+                                                                "Outros eventos de logon/logoff":  "Êxito e Falha",
+                                                                "Declarações do Usuário/Dispositivo":  "Êxito e Falha"
+                                                            }
+                                       },
+                                       {
+                                           "Acesso a objetos":  {
+                                                                    "Conexão de Plataforma de Filtragem":  "Êxito e Falha",
+                                                                    "Preparo da Política Central":  "Êxito e Falha",
+                                                                    "Objeto Kernel":  "Êxito e Falha",
+                                                                    "Aplicativo gerado":  "Êxito e Falha",
+                                                                    "Armazenamento Removível":  "Êxito e Falha",
+                                                                    "Registro":  "Êxito e Falha",
+                                                                    "Compartilhamento de arquivos":  "Êxito e Falha",
+                                                                    "Manipulação de Identificador":  "Êxito e Falha",
+                                                                    "Sistema de arquivos":  "Êxito e Falha",
+                                                                    "Compartilhamento de arquivos detalhado":  "Êxito e Falha",
+                                                                    "Descarte de Pacote de Plataforma de Filtragem":  "Êxito e Falha",
+                                                                    "SAM":  "Êxito e Falha",
+                                                                    "Serviços de certificação":  "Êxito e Falha",
+                                                                    "Outros Eventos de Acesso a Objetos":  "Êxito e Falha"
+                                                                }
+                                       },
+                                       {
+                                           "Uso de privilégios":  {
+                                                                      "Uso de Privilégio Não Importante":  "Êxito e Falha",
+                                                                      "Uso de Privilégio Importante":  "Êxito e Falha",
+                                                                      "Outros Eventos de Uso de Privilégios":  "Êxito e Falha"
+                                                                  }
+                                       },
+                                       {
+                                           "Monitoração detalhada":  {
+                                                                         "Eventos Plug and Play":  "Sem Auditoria",
+                                                                         "Eventos Ajustados ao Direito de Token":  "Sem Auditoria",
+                                                                         "Criação de processo":  "Sem Auditoria",
+                                                                         "Atividade DPAPI":  "Sem Auditoria",
+                                                                         "Terminação de processo":  "Sem Auditoria",
+                                                                         "Eventos de RPC":  "Sem Auditoria"
+                                                                     }
+                                       },
+                                       {
+                                           "Alteração de política":  {
+                                                                         "Alteração na política de autenticação":  "Êxito e Falha",
+                                                                         "Alteração na Política de Autorização":  "Êxito e Falha",
+                                                                         "Alteração na política de nível de regra MPSSVC":  "Êxito e Falha",
+                                                                         "Alteração na Política da Plataforma de Filtragem":  "Êxito e Falha",
+                                                                         "Outros eventos de alteração de política ":  "Êxito e Falha",
+                                                                         "Auditoria de alteração de políticas":  "Êxito e Falha"
+                                                                     }
+                                       },
+                                       {
+                                           "Gerenciamento de contas":  {
+                                                                           "Outros Eventos de Gerenciamento de Contas":  "Êxito e Falha",
+                                                                           "Gerenciamento de conta de computador":  "Êxito e Falha",
+                                                                           "Gerenciamento de conta de usuário":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de distribuição":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de segurança":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de aplicativos":  "Êxito e Falha"
+                                                                       }
+                                       },
+                                       {
+                                           "Acesso DS":  {
+                                                             "Acesso ao serviço de diretório":  "Sem Auditoria",
+                                                             "Replicação do serviço de diretório":  "Sem Auditoria",
+                                                             "Replicação detalhada do serviço de diretório":  "Sem Auditoria",
+                                                             "Alterações no serviço de diretório":  "Sem Auditoria"
+                                                         }
+                                       },
+                                       {
+                                           "Logon de conta":  {
+                                                                  "Operações do Tíquete de serviço Kerberos":  "Êxito e Falha",
+                                                                  "Outros Eventos de Logon de Conta":  "Êxito e Falha",
+                                                                  "Serviço de Autenticação Kerberos":  "Êxito e Falha",
+                                                                  "Validação de Credenciais":  "Êxito e Falha"
+                                                              }
+                                       }
+                                   ],
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ePass2003"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP LaserJet Pro MFP M125-M126"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP LaserJet Pro MFP M125-M126 HP Device Toolbox"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP LJ M125126 Scan HP Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Product FWUpdater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Unified IO"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel Driver \u0026\u0026 Support Assistant"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel® Arc™ Control"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel® Driver \u0026 Support Assistant"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft ASP.NET Core 7.0.7 - Shared Framework (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31332"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.32.31332"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.32.31332"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.32.31332"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 7.0.7 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Extensibility Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Localization Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Card Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Ethernet Controller Driver"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "27/02/2024_15:44:13",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  490348736512,
+                                         "FreeSpace":  431285489664
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:04",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Regis",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Regis",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Regis",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1762634826-2810620562-2012961201-1000",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Regis",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1762634826-2810620562-2012961201-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR Regis",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1762634826-2810620562-2012961201-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  true,
+                                 "HistoricoSenhas":  "5",
+                                 "ComprimentoMinimoSenha":  "8",
+                                 "TempoMaximoSenha":  "30",
+                                 "TempoMinimoSenha":  "0",
+                                 "DuracaoBloqueioConta":  "10",
+                                 "LimiteBloqueioConta":  "10"
+                             }
+    }
+]

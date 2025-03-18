@@ -1,0 +1,273 @@
+﻿[
+    {
+        "email":  "jonathan.s4ntos@gmail.com",
+        "CPF":  "05790630545"
+    },
+    {
+        "Nome_do_host":  "GALAXY-BOOK-JON",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22631 N/A compilação 22631",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "jonathan.s4ntos@hotmail.com",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80000-00000-AA081",
+        "Data_da_instalação_original":  "10/09/2023, 12:00:30",
+        "Tempo_de_Inicialização_do_Sistema":  "18/12/2023, 15:20:40",
+        "Fabricante_do_sistema":  "SAMSUNG ELECTRONICS CO., LTD.",
+        "Modelo_do_sistema":  "550XED",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.0.106",
+        "Versão_do_BIOS":  "American Megatrends International, LLC. P06RGK.042.230524.ZW, 24/05/2023",
+        "Pasta_do_Windows":  "C:\\windows",
+        "Pasta_do_sistema":  "C:\\windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "7.893 MB",
+        "Memória_física_disponível":  "3.277 MB",
+        "Memória_Virtual":  "Em Uso:                   4.721 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\GALAXY-BOOK-JON",
+        "Hotfix(es)":  "6 hotfix(es) instalado(s).",
+        "[02]":  "fe80::6c2f:6210:5d0a:a494",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "KB5031274",
+        "[05]":  "KB5033375",
+        "[06]":  "KB5032393",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.0.1",
+        "Requisitos_do_Hyper-V":  "Hipervisor detectado. Recursos necessários para o Hyper-V não serão exibidos."
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DetranBA Cert"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dropbox"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dropbox Update Helper"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Chipset Device Software"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Wireless Bluetooth(R)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kriptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft GameInput"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Card Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Ethernet Controller Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "19/12/2023_12:45:41",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  454698201088,
+                                         "FreeSpace":  100449841152
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Jonathan",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2452491500-3519457082-1224157931-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\jonat",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2452491500-3519457082-1224157931-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR Jonathan",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2452491500-3519457082-1224157931-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

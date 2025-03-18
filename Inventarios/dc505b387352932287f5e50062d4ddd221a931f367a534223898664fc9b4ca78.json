@@ -1,0 +1,236 @@
+﻿[
+    {
+        "email":  "leitesantana2011@hotmail.com",
+        "CPF":  "78020018549"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-95BFD20",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Edmilson",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80000-00000-AA410",
+        "Data_da_instalação_original":  "11/03/2023, 21:43:56",
+        "Tempo_de_Inicialização_do_Sistema":  "18/11/2024, 08:39:53",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "Inspiron N4050",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.0.101",
+        "Versão_do_BIOS":  "Dell Inc. A08, 03/08/2012",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.100 MB",
+        "Memória_física_disponível":  "4.087 MB",
+        "Memória_Virtual":  "Em Uso:                   3.983 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-95BFD20",
+        "Hotfix(es)":  "27 hotfix(es) instalado(s).",
+        "[02]":  "Dell Wireless 1702 802.11b|g|n",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "KB5011067",
+        "[05]":  "KB5012170",
+        "[06]":  "KB5015684",
+        "[07]":  "KB5044273",
+        "[08]":  "KB5014032",
+        "[09]":  "KB5016705",
+        "[10]":  "KB5020372",
+        "[11]":  "KB5022924",
+        "[12]":  "KB5023794",
+        "[13]":  "KB5026879",
+        "[14]":  "KB5028318",
+        "[15]":  "KB5028380",
+        "[16]":  "KB5029709",
+        "[17]":  "KB5031539",
+        "[18]":  "KB5032392",
+        "[19]":  "KB5032907",
+        "[20]":  "KB5036447",
+        "[21]":  "KB5037018",
+        "[22]":  "KB5037240",
+        "[23]":  "KB5037995",
+        "[24]":  "KB5039336",
+        "[25]":  "KB5041579",
+        "[26]":  "KB5043130",
+        "[27]":  "KB5046400",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.0.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DMA_2012"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DMD_2012"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HID Global TouchChip WBF Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Integrador 1.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 7 Update 67"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 411"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "K-Lite Mega Codec Pack 15.5.6"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee Security Scan Plus"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.34.31938"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Precision-UareU4500"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TED versão 4.3.8"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "U.are.U4500 Sensors DDK"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "18/11/2024_09:45:00",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  354818191360,
+                                         "FreeSpace":  288411648000
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Edmilson",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3473033378-305601312-3693794788-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Edmilson",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

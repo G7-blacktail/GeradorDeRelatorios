@@ -1,0 +1,468 @@
+﻿[
+    {
+        "email":  "acessodigital.corp@gmail.com",
+        "CPF":  "05891689405"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-3TPCH1V",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Everton Cavalcante",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-10000-00001-AA258",
+        "Data_da_instalação_original":  "01/11/2023, 22:12:21",
+        "Tempo_de_Inicialização_do_Sistema":  "04/04/2024, 20:45:54",
+        "Fabricante_do_sistema":  "SAMSUNG ELECTRONICS CO., LTD.",
+        "Modelo_do_sistema":  "550XCJ/550XCR",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "172.24.5.45",
+        "Versão_do_BIOS":  "American Megatrends Inc. P12RFH.054.220223.HC, 23/02/2022",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.007 MB",
+        "Memória_física_disponível":  "3.525 MB",
+        "Memória_Virtual":  "Em Uso:                   4.993 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-3TPCH1V",
+        "Hotfix(es)":  "18 hotfix(es) instalado(s).",
+        "[02]":  "fe80::bd87:62e9:83a7:ea5e",
+        "[03]":  "Bluetooth Device (Personal Area Network)",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB5007401",
+        "[06]":  "KB5011048",
+        "[07]":  "KB5011067",
+        "[08]":  "KB5015684",
+        "[09]":  "KB5034203",
+        "[10]":  "KB5006753",
+        "[11]":  "KB5011352",
+        "[12]":  "KB5026879",
+        "[13]":  "KB5031539",
+        "[14]":  "KB5031540",
+        "[15]":  "KB5032392",
+        "[16]":  "KB5032907",
+        "[17]":  "KB5034224",
+        "[18]":  "KB5003242",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "172.24.31.254",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Photoshop CC 2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Reader XI (11.0.23) - Português"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Shockwave Player 12.3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppServ 2.5.9 (remove only)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "aTube Catcher versão 3.8"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CorelDRAW Graphics Suite 2018 - IPM Content"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Ghostscript GPL 8.64 (Msi Setup)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB946040)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB946308)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB946344)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB947540)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB947789)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "K-Lite Codec Pack 14.5.5 Full"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "login"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office 2003 Web Components"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Report Viewer Redistributable 2008 (KB971119)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Report Viewer Redistributable 2008 SP1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft SQL Server 2008 R2 Books Online"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft SQL Server 2008 R2 Policies"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft SQL Server Browser"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft SQL Server Compact 3.5 SP2 ENU"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft SQL Server Compact 3.5 SP2 Query Tools ENU"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.4053 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.42 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.51011 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.56336 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.57103 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.58299 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable - x86 8.0.59193 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.0 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.218 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30411 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.0 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4048 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148.0 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.5570 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010 Redistributable - x86 10.0.30319 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.51106 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.51106 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 False Eng"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40649 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40649 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660 False"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio 2008 Shell (integrated mode) - ENU"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Tools for Applications 2.0 - ENU"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Tools for Applications 2017"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSXML 4.0 SP3 Parser"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "RFDepend"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Teams Machine-Wide Installer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TeamViewer 13"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "uTorrent"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "05/04/2024_12:38:35",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  479423434752,
+                                         "FreeSpace":  368847372288
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "IIS_IUSRS",
+                                                                   "ObjectClass":  "Grupo",
+                                                                   "Name":  "SQLServerReportServerUser$DESKTOP-3TPCH1V$MSRS10_50.MSSQLSERVER",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Everton Cavalcante",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2924316199-2935135869-1269905651-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Everton Cavalcante",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2924316199-2935135869-1269905651-1011",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AR LIDERSIS",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2924316199-2935135869-1269905651-1012",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR LIDERSIS",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  false
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

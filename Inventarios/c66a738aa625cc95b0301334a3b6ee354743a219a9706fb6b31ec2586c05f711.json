@@ -1,0 +1,387 @@
+﻿[
+    {
+        "email":  "balbinomuniz@hotmail.com",
+        "CPF":  "00497917530"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-TMQ8EB3",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "balbinomuniz@hotmail.com",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80000-00000-AA450",
+        "Data_da_instalação_original":  "12/05/2022, 19:36:02",
+        "Tempo_de_Inicialização_do_Sistema":  "31/07/2024, 14:48:12",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "Inspiron 15-3567",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.11.12",
+        "Versão_do_BIOS":  "Dell Inc. 2.9.0, 17/01/2019",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume2",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.058 MB",
+        "Memória_física_disponível":  "2.999 MB",
+        "Memória_Virtual":  "Em Uso:                   5.389 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-TMQ8EB3",
+        "Hotfix(es)":  "33 hotfix(es) instalado(s).",
+        "[02]":  "Realtek PCIe FE Family Controller",
+        "[03]":  "Bluetooth Device (Personal Area Network)",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB5007401",
+        "[06]":  "KB5011048",
+        "[07]":  "KB5011067",
+        "[08]":  "KB5012170",
+        "[09]":  "KB5015684",
+        "[10]":  "KB5040427",
+        "[11]":  "KB5014032",
+        "[12]":  "KB5014035",
+        "[13]":  "KB5014671",
+        "[14]":  "KB5015895",
+        "[15]":  "KB5016705",
+        "[16]":  "KB5018506",
+        "[17]":  "KB5020372",
+        "[18]":  "KB5022924",
+        "[19]":  "KB5023794",
+        "[20]":  "KB5025315",
+        "[21]":  "KB5026879",
+        "[22]":  "KB5028318",
+        "[23]":  "KB5028380",
+        "[24]":  "KB5029709",
+        "[25]":  "KB5031539",
+        "[26]":  "KB5032392",
+        "[27]":  "KB5032907",
+        "[28]":  "KB5034224",
+        "[29]":  "KB5036447",
+        "[30]":  "KB5037018",
+        "[31]":  "KB5037240",
+        "[32]":  "KB5037995",
+        "[33]":  "KB5039336",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.11.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Able2Extract Professional 7.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Acrobat XI Pro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Advanced Office Password Recovery"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Aiseesoft Video Converter Ultimate 10.7.32"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Arquivo do WinRAR"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brave"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother MFL-Pro Suite DCP-8112DN"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CMS"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CMSClient 1.0.0.54"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Easy Photo Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Easy Photo Print 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Foxit PDF Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Ghostscript GPL 8.64 (Msi Setup)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HexEdit"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Internet Download Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2020"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 421"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "John\u0027s Image Converter 2.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kriptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kryptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Lightshot-5.5.0.7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host - 6.0.11 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host FX Resolver - 6.0.11 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.11 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.21.27702"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Tools for Applications 2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 6.0.11 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "NetSurveillance"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Radmin Viewer 3.5.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Card Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek High Definition Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SADP"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung Easy Document Creator"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung OCR Software"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung Printer Live Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung Scan Process Machine"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Samsung SCX-6x55X Series"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Scan and Fax Manager 2 (3.01.11.00)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for CAPICOM (KB931906)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SIOPE Municipal Ano Base 2023 (Anual) 23.6.0.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SNS Upload for Easy Document Creator"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SPCE-Cadastro_2016"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SPCE-Cadastro_2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Teams Machine-Wide Installer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TeamViewer 13"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TubeDigger 7.7.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "VALID 1.0.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Wondershare Helper Compact 2.6.0"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/08/2024_07:43:27",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  239379410944,
+                                         "FreeSpace":  81537396736
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:15:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:30:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Balbino",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2215554995-1591815773-2138532693-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\balbi",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2215554995-1591815773-2138532693-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR Balbino",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2215554995-1591815773-2138532693-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

@@ -1,0 +1,286 @@
+﻿[
+    {
+        "email":  "almeidadigitalcontabil@gmail.com",
+        "CPF":  "00578993988"
+    },
+    {
+        "Nome_do_host":  "ALMEIDA",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "André Almeida",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-81494-09559-AA594",
+        "Data_da_instalação_original":  "11/09/2024, 11:57:56",
+        "Tempo_de_Inicialização_do_Sistema":  "09/10/2024, 10:45:54",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "Inspiron 15-3567",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "172.18.246.161",
+        "Versão_do_BIOS":  "Dell Inc. 2.14.1, 06/05/2021",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume2",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "7.972 MB",
+        "Memória_física_disponível":  "878 MB",
+        "Memória_Virtual":  "Em Uso:                   19.799 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\ALMEIDA",
+        "Hotfix(es)":  "12 hotfix(es) instalado(s).",
+        "[02]":  "fe80::81fe:bdf3:d9e5:a3af",
+        "[03]":  "TAP-Windows Adapter V9",
+        "[04]":  "2804:14d:bad1:8b30:1d69:bcc6:27d9:bf44",
+        "[05]":  "2804:14d:bad1:8b30:b2d3:3bf7:8a24:bd4b",
+        "[06]":  "2804:14d:bad1:8b30:97ef:c1b3:63f8:a98c",
+        "[07]":  "KB5033052",
+        "[08]":  "KB5044273",
+        "[09]":  "KB5014032",
+        "[10]":  "KB5025315",
+        "[11]":  "KB5043935",
+        "[12]":  "KB5043130",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "172.18.255.254",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController - AllUsers"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assistente de Atualização do Windows 10"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Busca - NF-e Escritório5.31"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Contábil"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Utilitários"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Web Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EFD Contribuições PVA"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 421"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kriptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Lightshot-5.5.0.7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee Security Scan Plus"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.23.27820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.23.27820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.23.27820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "o-VPN SERPRO"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Card Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek High Definition Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SafeSign"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEFIP 8.40"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Sped Contábil 10.2.2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Sped ECF PVA"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SQL Anywhere"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "VALID 1.0.2.0"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/11/2024_00:06:14",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "A",
+                                         "Size":  423349972992,
+                                         "FreeSpace":  277099798528
+                                     },
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  479489273856,
+                                         "FreeSpace":  350030872576
+                                     },
+                                     {
+                                         "DeviceID":  "D",
+                                         "Size":  423349972992,
+                                         "FreeSpace":  277099798528
+                                     },
+                                     {
+                                         "DeviceID":  "G",
+                                         "Size":  314571747328,
+                                         "FreeSpace":  314459684864
+                                     },
+                                     {
+                                         "DeviceID":  "Z",
+                                         "Size":  262143995904,
+                                         "FreeSpace":  170709032960
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "André Almeida",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3536581726-1074892845-3820036737-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\André Almeida",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

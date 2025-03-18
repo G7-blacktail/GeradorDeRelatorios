@@ -1,0 +1,389 @@
+﻿[
+    {
+        "email":  "cccp.cadastro@cccpcontabilidade.com.br",
+        "CPF":  "06558416441"
+    },
+    {
+        "Nome_do_host":  "CCCPCADASTRO",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Cadastro",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-10000-00001-AA670",
+        "Data_da_instalação_original":  "26/08/2021, 10:05:51",
+        "Tempo_de_Inicialização_do_Sistema":  "21/02/2024, 11:16:27",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "Inspiron 5566",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "10.0.1.102",
+        "Versão_do_BIOS":  "Dell Inc. 1.18.0, 11/01/2022",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.070 MB",
+        "Memória_física_disponível":  "2.986 MB",
+        "Memória_Virtual":  "Em Uso:                   5.342 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "CCCP",
+        "Servidor_de_Logon":  "\\\\CCCPCADASTRO",
+        "Hotfix(es)":  "27 hotfix(es) instalado(s).",
+        "[02]":  "Realtek PCIe FE Family Controller",
+        "[03]":  "Qualcomm QCA9565 802.11b/g/n Wireless Adapter",
+        "[04]":  "Bluetooth Device (Personal Area Network)",
+        "[05]":  "KB5011048",
+        "[06]":  "KB5011067",
+        "[07]":  "KB5012170",
+        "[08]":  "KB5015684",
+        "[09]":  "KB5034763",
+        "[10]":  "KB5007273",
+        "[11]":  "KB5011352",
+        "[12]":  "KB5015895",
+        "[13]":  "KB5016705",
+        "[14]":  "KB5018506",
+        "[15]":  "KB5020372",
+        "[16]":  "KB5022924",
+        "[17]":  "KB5023794",
+        "[18]":  "KB5025315",
+        "[19]":  "KB5026879",
+        "[20]":  "KB5028318",
+        "[21]":  "KB5028380",
+        "[22]":  "KB5029709",
+        "[23]":  "KB5031539",
+        "[24]":  "KB5032392",
+        "[25]":  "KB5032907",
+        "[26]":  "KB5034224",
+        "[27]":  "KB5005699",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Conexão de Rede Bluetooth 2",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "10.0.1.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Acrobat DC"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Genuine Service"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AutoLeadsSetup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brave"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Busca - NF-e Escritório"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Token Signing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Desinstalar GED-Desktop"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Contábil"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Utilitários"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ePass2003"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Event Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Scan 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Software Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GestãoPluginAssinaturas"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Update Helper"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Wireless Bluetooth(R)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF 2023 - Declaração de Ajuste Anual, Final de Espólio e Saída Definitiva do País "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2020"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IRPF2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kaspersky Small Office Security"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host - 6.0.10 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Host FX Resolver - 6.0.10 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.10 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.9 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft VC++ redistributables repacked."
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.29.30133"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.29.30133"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.29.30133"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.29.30133"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 6.0.10 (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ModuloAssinador versão 1.0.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OCS Inventory NG Agent 2.6.0.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OMNIKEY 3x21 PC/SC Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pesquisa Anual de Comércio 2021 (Simplificado) - Módulo Informante"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pesquisa Anual de Serviços 2021 - Módulo Informante"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pesquisa Anual de Serviços 2022 - Módulo Informante"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pesquisa Industrial Anual 2020 (Simplificado) - Módulo Informante"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pesquisa Industrial Anual 2021 (Simplificado) - Módulo Informante"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Audio COM Components"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Card Reader"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek High Definition Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SPCE-Cadastro_2014"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SPCE-Cadastro_2022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SQL Anywhere"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Tecnobyte Agenda versão 2.8.0.10"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "21/02/2024_11:22:40",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "Kaspersky Small Office Security",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  119366057984,
+                                         "FreeSpace":  10868510720
+                                     },
+                                     {
+                                         "DeviceID":  "Z",
+                                         "Size":  950045810688,
+                                         "FreeSpace":  580918321152
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "01:00:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Cadastro",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Vanessa",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Certificado",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1635282857-1964877521-572600005-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Cadastro",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1635282857-1964877521-572600005-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Certificado",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1635282857-1964877521-572600005-1003",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR Vanessa",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1635282857-1964877521-572600005-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  false
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

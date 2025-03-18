@@ -1,0 +1,339 @@
+﻿[
+    {
+        "email":  "guilhermemachado98@hotmail.com",
+        "CPF":  "10055830641"
+    },
+    {
+        "Nome_do_host":  "GUILHERMEPC",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22000 N/A compilação 22000",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "N/A",
+        "Organização_registrada":  "N/A",
+        "Identificação_do_produto":  "00330-80000-00000-AA559",
+        "Data_da_instalação_original":  "18/01/2024, 15:52:35",
+        "Tempo_de_Inicialização_do_Sistema":  "26/07/2024, 08:35:06",
+        "Fabricante_do_sistema":  "To be filled by O.E.M.",
+        "Modelo_do_sistema":  "To be filled by O.E.M.",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.25.82",
+        "Versão_do_BIOS":  "American Megatrends Inc. 4.6.5, 01/12/2022",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.089 MB",
+        "Memória_física_disponível":  "2.098 MB",
+        "Memória_Virtual":  "Em Uso:                   6.010 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "CMINEIRA",
+        "Servidor_de_Logon":  "\\\\GUILHERMEPC",
+        "Hotfix(es)":  "7 hotfix(es) instalado(s).",
+        "[02]":  "TAP-Windows Adapter V9",
+        "[03]":  "Bluetooth Device (Personal Area Network)",
+        "[04]":  "2804:1b3:c200:429c:cbb3:785e:f492:73de",
+        "[05]":  "KB5012170",
+        "[06]":  "KB5014865",
+        "[07]":  "KB5031591",
+        "Placa(s)_de_Rede":  "3 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Conexão de Rede Bluetooth 2",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.25.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Não",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  [
+                                       {
+                                           "Sistema":  {
+                                                           "Alteração no estado de segurança":  "Êxito",
+                                                           "Driver IPsec":  "Sem Auditoria",
+                                                           "Integridade do sistema":  "Êxito e Falha",
+                                                           "Extensão do sistema de segurança":  "Sem Auditoria",
+                                                           "Outros Eventos do Sistema":  "Êxito e Falha"
+                                                       }
+                                       },
+                                       {
+                                           "Logon/logoff":  {
+                                                                "Servidor de Política de Rede":  "Êxito e Falha",
+                                                                "Logoff":  "Êxito e Falha",
+                                                                "Associação a um Grupo":  "Êxito e Falha",
+                                                                "Modo estendido do IPsec":  "Êxito e Falha",
+                                                                "Bloqueio de conta":  "Êxito e Falha",
+                                                                "Logon":  "Êxito e Falha",
+                                                                "Modo rápido do IPsec":  "Êxito e Falha",
+                                                                "Modo principal do IPsec":  "Êxito e Falha",
+                                                                "Logon especial":  "Êxito e Falha",
+                                                                "Outros eventos de logon/logoff":  "Êxito e Falha",
+                                                                "Declarações do Usuário/Dispositivo":  "Êxito e Falha"
+                                                            }
+                                       },
+                                       {
+                                           "Acesso a objetos":  {
+                                                                    "Conexão de Plataforma de Filtragem":  "Êxito e Falha",
+                                                                    "Preparo da Política Central":  "Êxito e Falha",
+                                                                    "Objeto Kernel":  "Êxito e Falha",
+                                                                    "Aplicativo gerado":  "Êxito e Falha",
+                                                                    "Armazenamento Removível":  "Êxito e Falha",
+                                                                    "Registro":  "Êxito e Falha",
+                                                                    "Compartilhamento de arquivos":  "Êxito e Falha",
+                                                                    "Manipulação de Identificador":  "Êxito e Falha",
+                                                                    "Sistema de arquivos":  "Êxito e Falha",
+                                                                    "Compartilhamento de arquivos detalhado":  "Êxito e Falha",
+                                                                    "Descarte de Pacote de Plataforma de Filtragem":  "Êxito e Falha",
+                                                                    "SAM":  "Êxito e Falha",
+                                                                    "Serviços de certificação":  "Êxito e Falha",
+                                                                    "Outros Eventos de Acesso a Objetos":  "Êxito e Falha"
+                                                                }
+                                       },
+                                       {
+                                           "Uso de privilégios":  {
+                                                                      "Uso de Privilégio Não Importante":  "Êxito e Falha",
+                                                                      "Uso de Privilégio Importante":  "Êxito e Falha",
+                                                                      "Outros Eventos de Uso de Privilégios":  "Êxito e Falha"
+                                                                  }
+                                       },
+                                       {
+                                           "Monitoração detalhada":  {
+                                                                         "Eventos Plug and Play":  "Sem Auditoria",
+                                                                         "Eventos Ajustados ao Direito de Token":  "Sem Auditoria",
+                                                                         "Criação de processo":  "Sem Auditoria",
+                                                                         "Atividade DPAPI":  "Sem Auditoria",
+                                                                         "Terminação de processo":  "Sem Auditoria",
+                                                                         "Eventos de RPC":  "Sem Auditoria"
+                                                                     }
+                                       },
+                                       {
+                                           "Alteração de política":  {
+                                                                         "Alteração na política de autenticação":  "Êxito e Falha",
+                                                                         "Alteração na Política de Autorização":  "Êxito e Falha",
+                                                                         "Alteração na política de nível de regra MPSSVC":  "Êxito e Falha",
+                                                                         "Alteração na Política da Plataforma de Filtragem":  "Êxito e Falha",
+                                                                         "Outros eventos de alteração de política ":  "Êxito e Falha",
+                                                                         "Auditoria de alteração de políticas":  "Êxito e Falha"
+                                                                     }
+                                       },
+                                       {
+                                           "Gerenciamento de contas":  {
+                                                                           "Outros Eventos de Gerenciamento de Contas":  "Êxito e Falha",
+                                                                           "Gerenciamento de conta de computador":  "Êxito e Falha",
+                                                                           "Gerenciamento de conta de usuário":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de distribuição":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de segurança":  "Êxito e Falha",
+                                                                           "Gerenciamento de grupo de aplicativos":  "Êxito e Falha"
+                                                                       }
+                                       },
+                                       {
+                                           "Acesso DS":  {
+                                                             "Acesso ao serviço de diretório":  "Sem Auditoria",
+                                                             "Replicação do serviço de diretório":  "Sem Auditoria",
+                                                             "Replicação detalhada do serviço de diretório":  "Sem Auditoria",
+                                                             "Alterações no serviço de diretório":  "Sem Auditoria"
+                                                         }
+                                       },
+                                       {
+                                           "Logon de conta":  {
+                                                                  "Operações do Tíquete de serviço Kerberos":  "Êxito e Falha",
+                                                                  "Outros Eventos de Logon de Conta":  "Êxito e Falha",
+                                                                  "Serviço de Autenticação Kerberos":  "Êxito e Falha",
+                                                                  "Validação de Credenciais":  "Êxito e Falha"
+                                                              }
+                                       }
+                                   ],
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController - AllUsers"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2024 - Declaração do Imposto sobre a Renda Retido na Fonte "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Domínio Web Plugin"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Giesecke \u0026 Devrient GmbH StarSign CUT"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 401"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Kriptonita"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Extensibility Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Localization Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SEDIF-SN  1.0.6.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SIEG"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SoftMaker FreeOffice 2021"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Validador Sintegra 5.4.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "26/07/2024_08:49:39",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  218422571008,
+                                         "FreeSpace":  144258887680
+                                     },
+                                     {
+                                         "DeviceID":  "F",
+                                         "Size":  500105216000,
+                                         "FreeSpace":  488535793664
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Guilherme",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4176432007-3716791931-2045385914-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\guilh",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4176432007-3716791931-2045385914-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR Guilherme",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4176432007-3716791931-2045385914-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  true,
+                                 "HistoricoSenhas":  "5",
+                                 "ComprimentoMinimoSenha":  "8",
+                                 "TempoMaximoSenha":  "30",
+                                 "TempoMinimoSenha":  "0",
+                                 "DuracaoBloqueioConta":  "30",
+                                 "LimiteBloqueioConta":  "8"
+                             }
+    }
+]

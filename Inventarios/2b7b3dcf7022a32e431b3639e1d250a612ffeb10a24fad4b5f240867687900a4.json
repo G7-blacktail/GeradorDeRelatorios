@@ -1,0 +1,465 @@
+﻿[
+    {
+        "email":  "mozartsilva1340@gmail.com",
+        "CPF":  "10731026454"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-I5BPGSK",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "User",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80000-00000-AA614",
+        "Data_da_instalação_original":  "22/01/2024, 16:51:56",
+        "Tempo_de_Inicialização_do_Sistema":  "20/06/2024, 10:03:12",
+        "Fabricante_do_sistema":  "Compaq",
+        "Modelo_do_sistema":  "Compaq Presario CQ-27",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.100.7",
+        "Versão_do_BIOS":  "American Megatrends Inc. 2.14, 27/07/2020",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume2",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "4.015 MB",
+        "Memória_física_disponível":  "1.076 MB",
+        "Memória_Virtual":  "Em Uso:                   3.277 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-I5BPGSK",
+        "Hotfix(es)":  "18 hotfix(es) instalado(s).",
+        "[02]":  "fe80::88aa:535c:b209:5cbf",
+        "[03]":  "Bluetooth Device (Personal Area Network)",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB4580325",
+        "[06]":  "KB4586864",
+        "[07]":  "KB5011048",
+        "[08]":  "KB5011067",
+        "[09]":  "KB5015684",
+        "[10]":  "KB5033052",
+        "[11]":  "KB5039211",
+        "[12]":  "KB5014032",
+        "[13]":  "KB5032907",
+        "[14]":  "KB5034224",
+        "[15]":  "KB5036447",
+        "[16]":  "KB5037018",
+        "[17]":  "KB5037240",
+        "[18]":  "KB5037995",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.100.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppController"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Definition Update for Microsoft Office 2010 (KB3115475) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dirf 2024 - Declaração do Imposto sobre a Renda Retido na Fonte "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GOSIGNER versão 1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Processor Graphics"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee Security Scan Plus"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Access MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Excel MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Groove MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office InfoPath MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office OneNote MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Outlook MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office PowerPoint MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Professional Plus 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (English) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (Spanish) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proofing (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Publisher MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Shared MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Word MUI (Portuguese (Brazil)) 2010"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Picasa 3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Receitanet"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Access 2010 (KB4484385) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Excel 2010 (KB3017810) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft InfoPath 2010 (KB3114414) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2553313) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2553332) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2553491) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2589361) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2850016) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2880971) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2881029) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2956063) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB2956076) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3114565) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3191908) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3203468) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3213626) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB3213631) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4011610) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4022206) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4022208) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4484455) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4493143) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4504738) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2010 (KB4504739) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft OneNote 2010 (KB3114885) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Outlook 2010 (KB4493185) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft PowerPoint 2010 (KB4504702) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Publisher 2010 (KB4032216) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Visio 2010 (KB4484376) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Visio Viewer 2010 (KB2999465) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Word 2010 (KB4461625) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Word 2010 (KB4493218) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Service Pack 2 for Microsoft Office 2010 (KB2687455) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Filter Pack 2.0 (KB3114879) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft InfoPath 2010 (KB2817369) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2553140) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2553347) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2553388) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2589298) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2589318) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2589339) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2589375) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2589386) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2597087) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2791057) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2825640) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2881030) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB2883019) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB3054873) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB3054886) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB3055047) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB4092436) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB4461579) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB4461626) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB4462172) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2010 (KB4462187) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Outlook 2010 (KB3114559) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Outlook Social Connector 2010 (KB2553308) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft PowerPoint 2010 (KB4092435) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft SharePoint Workspace 2010 (KB2760601) 32-Bit Edition"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/07/2024_09:58:20",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  946632441856,
+                                         "FreeSpace":  795236491264
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "User",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Mozart",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2420600628-304496671-12167847-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\User",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2420600628-304496671-12167847-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR Mozart",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2420600628-304496671-12167847-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

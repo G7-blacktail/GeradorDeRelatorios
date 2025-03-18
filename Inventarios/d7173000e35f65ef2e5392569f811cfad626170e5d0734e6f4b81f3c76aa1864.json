@@ -1,0 +1,466 @@
+﻿[
+    {
+        "email":  "jafreitas2001@gmail.com",
+        "CPF":  "16412400753"
+    },
+    {
+        "Nome_do_host":  "JONASFREITAS",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "N/A",
+        "Organização_registrada":  "N/A",
+        "Identificação_do_produto":  "00330-80117-67320-AA479",
+        "Data_da_instalação_original":  "06/02/2022, 05:23:10",
+        "Tempo_de_Inicialização_do_Sistema":  "08/11/2024, 10:28:26",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "Inspiron 3421",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.2.34",
+        "Versão_do_BIOS":  "Dell Inc. A13, 14/12/2015",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume2",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "6.041 MB",
+        "Memória_física_disponível":  "439 MB",
+        "Memória_Virtual":  "Em Uso:                   9.115 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\JONASFREITAS",
+        "Hotfix(es)":  "48 hotfix(es) instalado(s).",
+        "[02]":  "fe80::7bd8:e699:f699:cfa6",
+        "[03]":  "Realtek PCIe FE Family Controller",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB4580325",
+        "[06]":  "KB4589212",
+        "[07]":  "KB4598481",
+        "[08]":  "KB5003791",
+        "[09]":  "KB5011048",
+        "[10]":  "KB5011067",
+        "[11]":  "KB5012170",
+        "[12]":  "KB5015684",
+        "[13]":  "KB5045594",
+        "[14]":  "KB5006753",
+        "[15]":  "KB5007273",
+        "[16]":  "KB5009636",
+        "[17]":  "KB5011352",
+        "[18]":  "KB5011651",
+        "[19]":  "KB5014032",
+        "[20]":  "KB5014035",
+        "[21]":  "KB5014671",
+        "[22]":  "KB5015895",
+        "[23]":  "KB5016705",
+        "[24]":  "KB5018506",
+        "[25]":  "KB5020372",
+        "[26]":  "KB5022924",
+        "[27]":  "KB5023794",
+        "[28]":  "KB5025315",
+        "[29]":  "KB5026879",
+        "[30]":  "KB5028318",
+        "[31]":  "KB5028380",
+        "[32]":  "KB5029709",
+        "[33]":  "KB5031539",
+        "[34]":  "KB5032392",
+        "[35]":  "KB5032907",
+        "[36]":  "KB5034224",
+        "[37]":  "KB5036447",
+        "[38]":  "KB5037018",
+        "[39]":  "KB5037240",
+        "[40]":  "KB5037995",
+        "[41]":  "KB5039336",
+        "[42]":  "KB5040565",
+        "[43]":  "KB5041579",
+        "[44]":  "KB5041581",
+        "[45]":  "KB5043935",
+        "[46]":  "KB5043130",
+        "[47]":  "KB5046823",
+        "[48]":  "KB5005699",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.2.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "3D Sound Back Beta0.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Aplicativo Itaú"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador-SERPRO-Desinstalar-4.2.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assistente de Atualização do Windows 10"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "aTube Downloader 5.3.50"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Avast Update Helper"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BB Assinatura Digital versão 2.4.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CCleaner Update Helper"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dell SupportAssist OS Recovery Plugin for Dell Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dell Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dell WLAN and Bluetooth Client Installation"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Easy Photo Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Connect Printer Setup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Easy Photo Print 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Event Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Photo+"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Printer Connection Checker"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Scan 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Scan OCR Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Scan PDF EXtensions"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson ScanSmart"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Software Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Integration Services"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Wireless Bluetooth(R)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel® Security Assist"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 431"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Manual Epson L3150"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.20 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Help Viewer 2.3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft SQL Server Management Studio - 18.12.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.40.33816"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.40.33816"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33816"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33816"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 6.0.28 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MySQL Connector J"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MySQL Connector NET 8.0.31"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MySQL Connector/ODBC 8.0 (32-bit)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MySQL Documents 8.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MySQL Examples and Samples 8.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MySQL Installer - Community"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Navegador para SQL Server 2019"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Pacote de Idiomas do Microsoft Help Viewer 2.3 – PTB"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PedidoOK versão 1.0.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Provedor Microsoft Analysis Services OLE DB"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Proxlight Designer"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek High Definition Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Shell isolado do Visual Studio 2017 para o pacote de idiomas do SSMS – Português (Brasil)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SQL Server Management Studio for Analysis Services Localization"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SQL Server Management Studio for Reporting Services Localization"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SQLite ODBC Driver for Win64 (remove only)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Visual Studio 2017 Isolated Shell for SSMS"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WaSenderSetUp"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Web PKI"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "08/11/2024_19:24:15",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         },
+                                         {
+                                             "Nome":  "Avast Antivirus",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  237283307520,
+                                         "FreeSpace":  35951259648
+                                     },
+                                     {
+                                         "DeviceID":  "G",
+                                         "Size":  107374182400,
+                                         "FreeSpace":  34153693184
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\jafre",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\UpdatusUser",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1004",
+                                                                                  "ProfileImagePath":  "C:\\Users\\defaultuser100000",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1006",
+                                                                                  "ProfileImagePath":  "C:\\Users\\defaultuser100000.JONASFREITAS",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1008",
+                                                                                  "ProfileImagePath":  "C:\\Users\\defaultuser1",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1009",
+                                                                                  "ProfileImagePath":  "C:\\Users\\defaultuser1.JONASFREITAS",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1010",
+                                                                                  "ProfileImagePath":  "C:\\Users\\defaultuser1.JONASFREITAS.000",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1011",
+                                                                                  "ProfileImagePath":  "C:\\Users\\defaultuser1.JONASFREITAS.001",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1012",
+                                                                                  "ProfileImagePath":  "C:\\Users\\defaultuser1.JONASFREITAS.002",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1013",
+                                                                                  "ProfileImagePath":  "C:\\Users\\defaultuser1.JONASFREITAS.003",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3770523929-3823632038-48622170-1016",
+                                                                                  "ProfileImagePath":  "C:\\Users\\postgres",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

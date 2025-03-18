@@ -1,0 +1,293 @@
+﻿[
+    {
+        "email":  "tatyelle@ispaces.com.br",
+        "CPF":  "00936652292"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-4NV1CH5",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22621 N/A compilação 22621",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "ISPACES CW JD GOIAS",
+        "Organização_registrada":  "N/A",
+        "Identificação_do_produto":  "00330-80000-00000-AA921",
+        "Data_da_instalação_original":  "24/01/2024, 18:59:24",
+        "Tempo_de_Inicialização_do_Sistema":  "07/05/2024, 12:20:56",
+        "Fabricante_do_sistema":  "AZW",
+        "Modelo_do_sistema":  "MINI S",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.100.211",
+        "Versão_do_BIOS":  "American Megatrends International, LLC. JTKT001, 29/11/2022",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "7.971 MB",
+        "Memória_física_disponível":  "1.521 MB",
+        "Memória_Virtual":  "Em Uso:                   9.116 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-4NV1CH5",
+        "Hotfix(es)":  "4 hotfix(es) instalado(s).",
+        "[02]":  "fe80::1f10:3a9c:b414:6f85",
+        "[03]":  "2804:d59:800e:1300:d5db:616f:5328:8768",
+        "[04]":  "Bluetooth Device (Personal Area Network)",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Bluetooth Network Connection 2",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.100.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AppLogLibSetup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BrLauncher"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BrLogRx"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother iPrint\u0026Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother PCFax Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother Printer Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Brother Scanner Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "BrSupportTools"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CMSClient 1.0.0.54"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ControlCenter4"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ControlCenter4 CSDK"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HowToGuide"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HttpToUsbBridge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee Security Scan Plus"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "NetworkRepairTool"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PC-FAXReceive"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PCFaxTx"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "RemoteSetup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ScannerUtilityInstaller"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SoftwareUpdateNotification"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "StatusMonitor"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "TeamViewer Host"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "UsbRepairTool"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Yoosee"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "07/05/2024_13:49:01",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  253966151680,
+                                         "FreeSpace":  2114490368
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:01",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administrators",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrator",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administrators",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Guests",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Guest",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Power Users",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Power Users",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Users",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-874626956-3033757588-1498857009-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\ISPACES CW JD GOIAS",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-874626956-3033757588-1498857009-1003",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AR LIDERSIS",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

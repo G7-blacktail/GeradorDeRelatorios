@@ -1,0 +1,293 @@
+﻿[
+    {
+        "email":  "romario.silva.94.entronc@gmail.com",
+        "CPF":  "86020156583"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-4NVKEF9",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "Admin",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00331-10000-00001-AA307",
+        "Data_da_instalação_original":  "31/03/2022, 17:12:08",
+        "Tempo_de_Inicialização_do_Sistema":  "01/07/2024, 09:00:25",
+        "Fabricante_do_sistema":  "To be filled by O.E.M.",
+        "Modelo_do_sistema":  "To be filled by O.E.M.",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "172.18.244.174",
+        "Versão_do_BIOS":  "American Megatrends Inc. 4.6.5, 28/10/2020",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "3.982 MB",
+        "Memória_física_disponível":  "1.313 MB",
+        "Memória_Virtual":  "Em Uso:                   2.947 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-4NVKEF9",
+        "Hotfix(es)":  "28 hotfix(es) instalado(s).",
+        "[02]":  "fe80::51bf:783b:4489:c6a6",
+        "[03]":  "2804:73a8:4053:4401:3d8d:3bd5:88a4:15c8",
+        "[04]":  "2804:73a8:4053:4401:2a09:19a0:d518:4dba",
+        "[05]":  "KB5011067",
+        "[06]":  "KB5012170",
+        "[07]":  "KB5015684",
+        "[08]":  "KB5033052",
+        "[09]":  "KB5039211",
+        "[10]":  "KB5011352",
+        "[11]":  "KB5011651",
+        "[12]":  "KB5014032",
+        "[13]":  "KB5014035",
+        "[14]":  "KB5014671",
+        "[15]":  "KB5015895",
+        "[16]":  "KB5016705",
+        "[17]":  "KB5018506",
+        "[18]":  "KB5020372",
+        "[19]":  "KB5022924",
+        "[20]":  "KB5023794",
+        "[21]":  "KB5025315",
+        "[22]":  "KB5026879",
+        "[23]":  "KB5034224",
+        "[24]":  "KB5036447",
+        "[25]":  "KB5037018",
+        "[26]":  "KB5037240",
+        "[27]":  "KB5037995",
+        "[28]":  "KB5005699",
+        "Placa(s)_de_Rede":  "2 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "172.18.255.254",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Não",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Driver Booster 11"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Easy Photo Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Connect Printer Setup"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Easy Photo Print 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Event Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Photo+"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson PowerENGAGE 3.5.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Printer Connection Checker"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Scan 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Scan OCR Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Scan PDF EXtensions"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson ScanSmart"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Software Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "iTop Screen Recorder"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "iTop VPN"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 333"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Manual Epson L3110"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Manual Epson L3210"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee Safe Connect"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "McAfee Security Scan Plus"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2005 Redistributable"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24212"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24212"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24212"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24212"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek High Definition Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRAR 6.02 (32-bit)"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/07/2024_09:02:18",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  119365279744,
+                                         "FreeSpace":  6681047040
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Admin",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2300485282-2326521400-1867824415-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Admin",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

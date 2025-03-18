@@ -1,0 +1,250 @@
+﻿[
+    {
+        "email":  "lucio.flavio.barreto@gmail.com",
+        "CPF":  "10407986405"
+    },
+    {
+        "Nome_do_host":  "NOTEDELLLF",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Home Single Language",
+        "Versão_do_sistema_operacional":  "10.0.22631 N/A compilação 22631",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "LFCOMPUTERTECHNOLOGY",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00327-30216-98560-AAOEM",
+        "Data_da_instalação_original":  "11/07/2023, 10:29:45",
+        "Tempo_de_Inicialização_do_Sistema":  "13/06/2024, 07:08:30",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "Inspiron 3576",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.188.87",
+        "Versão_do_BIOS":  "Dell Inc. 1.10.0, 09/01/2020",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.057 MB",
+        "Memória_física_disponível":  "1.429 MB",
+        "Memória_Virtual":  "Em Uso:                   12.446 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "LFCOMPUTER",
+        "Servidor_de_Logon":  "\\\\NOTEDELLLF",
+        "Hotfix(es)":  "5 hotfix(es) instalado(s).",
+        "[02]":  "fe80::7075:3c79:160d:8096",
+        "[03]":  "Dell Wireless 1707 802.11b|g|n (2.4GHZ)",
+        "[04]":  "Microsoft Network Adapter Multiplexor Driver",
+        "[05]":  "KB5037959",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Ponte de Rede",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.188.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CERTO MEI versão 2023"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON Advanced Printer Driver for TM-T20 Ver.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Scan 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON TM Coupon Package"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EPSON TM-T20 Utility Ver.1.50"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Firebird 3.0.10.33601 (Win32)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "IP Utility 1.0.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 371"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Lightshot-5.5.0.7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.31.31103"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2005 CRT libraries"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2010 CRT libraries"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Extensibility Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Office 16 Click-to-Run Localization Component"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SADPTool"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "SG Master versão 2023"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WicReset version 5.0.0.18"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WinRAR 5.20 (32-bit)"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "14/06/2024_13:40:21",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  479335542784,
+                                         "FreeSpace":  242793230336
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:00:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "LFCOMPUTERTECHNOLOGY",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3031064283-656599579-1022419967-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\LFCOMPUTERTECHNOLOGY",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

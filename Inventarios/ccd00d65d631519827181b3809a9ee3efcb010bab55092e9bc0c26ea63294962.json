@@ -1,0 +1,529 @@
+﻿[
+    {
+        "email":  "brisaelima@gmail.com",
+        "CPF":  "60017607302"
+    },
+    {
+        "Nome_do_host":  "DELL-PC",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "DELL",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-50000-00000-AAOEM",
+        "Data_da_instalação_original":  "13/11/2022, 20:57:46",
+        "Tempo_de_Inicialização_do_Sistema":  "25/07/2024, 16:27:17",
+        "Fabricante_do_sistema":  "Dell Inc.",
+        "Modelo_do_sistema":  "Inspiron 3442",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.0.100",
+        "Versão_do_BIOS":  "Dell Inc. A06, 12/01/2015",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume2",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.096 MB",
+        "Memória_física_disponível":  "2.614 MB",
+        "Memória_Virtual":  "Em Uso:                   7.320 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DELL-PC",
+        "Hotfix(es)":  "19 hotfix(es) instalado(s).",
+        "[02]":  "fe80::2cc4:584e:2d76:c45b",
+        "[03]":  "Dell Wireless 1705 802.11b/g/n (2.4GHZ)",
+        "[04]":  "Realtek PCIe FE Family Controller",
+        "[05]":  "Bluetooth Device (Personal Area Network)",
+        "[06]":  "KB5015684",
+        "[07]":  "KB5031356",
+        "[08]":  "KB5014032",
+        "[09]":  "KB5016705",
+        "[10]":  "KB5018506",
+        "[11]":  "KB5020372",
+        "[12]":  "KB5022924",
+        "[13]":  "KB5023794",
+        "[14]":  "KB5025315",
+        "[15]":  "KB5026879",
+        "[16]":  "KB5028318",
+        "[17]":  "KB5028380",
+        "[18]":  "KB5029709",
+        "[19]":  "KB5031539",
+        "Placa(s)_de_Rede":  "5 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "Conexão de Rede Bluetooth",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.0.1",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Atualização do produto Microsoft Office Excel 2007 Help (KB963678)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Atualização do produto Microsoft Office Outlook 2007 Help (KB963677)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Atualização do produto Microsoft Office Powerpoint 2007 Help (KB963669)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Atualização do produto Microsoft Office Word 2007 Help (KB963665)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Canon IJ Printer Assistant Tool"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Canon IJ Scan Utility"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Canon Inkjet Printer/Scanner/Fax Extended Survey Program"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Token Signing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Configurações da câmera Logitech"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "CoreFood"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dell SupportAssist OS Recovery Plugin for Dell Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Dell Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Demo LojaDev versão 4.3"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Firebird 3.0.10.33601 (Win32)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GDOOR  PRO"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GDOOR PRO"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Update Helper"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "GOSIGNER versão 1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Processor Graphics"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft .NET Runtime - 6.0.20 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office 2007 Service Pack 3 (SP3)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Access MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Enterprise 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Excel MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Groove MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office InfoPath MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office OneNote MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Outlook MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office PowerPoint MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (English) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (Spanish) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proofing (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proofing Tools 2007 Service Pack 3 (SP3)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Publisher MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Shared MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Word MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft PowerBI Desktop (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.25.28508"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27033"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.25.28508"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.25.28508"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Windows Desktop Runtime - 6.0.28 (x64)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2005 CRT libraries"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "MSI to redistribute MS VS2010 CRT libraries"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OCS Inventory NG Agent 2.6.0.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Plugin Assinatura"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Plugin Biometrico"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "PostgreSQL 10  (x86)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "QualiSign Extension - NativeApp versão 2.0.0.11"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "QualiSign Extension versão 2.0.0.11"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Radmin VPN 1.4.1"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek High Definition Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2596650) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2596754) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2596792) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2596825) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2596871) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2596904) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2597969) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2825645) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2850022) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2880507) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2880508) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2881067) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2956110) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2984938) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2984943) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB2986253) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB3085549) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office 2007 suites (KB4011656) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office Access 2007 (KB2596614) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office Compatibility Pack Service Pack 3 (KB4011717) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office Compatibility Pack Service Pack 3 (KB4018354) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office Excel 2007 (KB4018353) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office InfoPath 2007 (KB2687440) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office InfoPath 2007 (KB3114426) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office OneNote 2007 (KB3114456) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office OneNote 2007 (KB3191829) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office Outlook 2007 (KB4011200) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office PowerPoint 2007 (KB3213642) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office Visio Viewer 2007 (KB2596915) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Security Update for Microsoft Office Word 2007 (KB4018355) 32-Bit Edition "
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Serviço de conformidade"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for 2007 Microsoft Office System (KB967642)"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2007 suites (KB2596620) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2007 suites (KB2596787) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2007 suites (KB2767916) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2007 suites (KB2965286) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2007 suites (KB3213646) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office 2007 suites (KB3213649) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office Outlook 2007 Junk Email Filter (KB3115461) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Update for Microsoft Office Publisher 2007 (KB4011203) 32-Bit Edition"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Versão 2021"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "01/08/2024_00:06:04",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  223278526464,
+                                         "FreeSpace":  117272567808
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "HomeUsers",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "HomeUsers",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DELL",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "HomeUsers",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "HomeGroupUser$",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Operadores de configuração de rede",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "brisa.lima",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "brisa.lima",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DELL",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2060672309-1598239958-574604346-1000",
+                                                                                  "ProfileImagePath":  "C:\\Users\\DELL",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2060672309-1598239958-574604346-1004",
+                                                                                  "ProfileImagePath":  "C:\\Users\\brisa.lima",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-2060672309-1598239958-574604346-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

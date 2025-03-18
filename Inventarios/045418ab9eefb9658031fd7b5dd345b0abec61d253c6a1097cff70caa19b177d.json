@@ -1,0 +1,301 @@
+﻿[
+    {
+        "email":  "anakarli@hotmail.com",
+        "CPF":  "87437961415"
+    },
+    {
+        "Nome_do_host":  "CERTITECH",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 11 Pro",
+        "Versão_do_sistema_operacional":  "10.0.22631 N/A compilação 22631",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "anakarli@hotmail.com",
+        "Organização_registrada":  "N/A",
+        "Identificação_do_produto":  "00330-80181-55073-AA647",
+        "Data_da_instalação_original":  "10/04/2023, 11:45:27",
+        "Tempo_de_Inicialização_do_Sistema":  "30/05/2024, 15:29:05",
+        "Fabricante_do_sistema":  "ASUSTeK COMPUTER INC.",
+        "Modelo_do_sistema":  "VivoBook_ASUSLaptop X515DA_X515DA",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "169.254.9.111",
+        "Versão_do_BIOS":  "American Megatrends Inc. X515DA.304, 29/03/2021",
+        "Pasta_do_Windows":  "C:\\WINDOWS",
+        "Pasta_do_sistema":  "C:\\WINDOWS\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Caiena, Fortaleza",
+        "Memória_física_total":  "6.091 MB",
+        "Memória_física_disponível":  "1.443 MB",
+        "Memória_Virtual":  "Em Uso:                   6.732 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\CERTITECH",
+        "Hotfix(es)":  "5 hotfix(es) instalado(s).",
+        "[02]":  "fe80::361f:fe7e:1846:c7c5",
+        "[03]":  "fd12:3456:7890::ac12:ffad",
+        "[04]":  "fd12:3456:7890::ac12:f30f",
+        "[05]":  "KB5037020",
+        "Placa(s)_de_Rede":  "2 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Não",
+        "Servidor_DHCP":  "192.168.0.1",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Arquivo do WinRAR"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Chrome Token Signing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Laser MFP 131 133 135-138"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP MFP Scan"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "HP Scan Process Machine"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "K-Lite Mega Codec Pack 12.9.0"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Access MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Enterprise 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Excel MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Groove MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office InfoPath MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office OneNote MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Outlook MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office PowerPoint MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (English) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (Spanish) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proofing (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Publisher MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Shared MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Word MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.26.28720"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.26.28720"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.26.28720"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.26.28720"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "WebAdvisor da McAfee"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "18/06/2024_09:00:02",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  254720413696,
+                                         "FreeSpace":  978522112
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  true,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  "00:00:00",
+                                               "Desligamento_por_inatividade_habilitado":  true,
+                                               "Tempo_de_desligamento_do_dispositivo":  "00:10:00"
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR Ana",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1921763893-517288730-1238681854-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\anaka",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1921763893-517288730-1238681854-1004",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AR CERTFY",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1921763893-517288730-1238681854-1011",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR Ana",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

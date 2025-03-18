@@ -1,0 +1,336 @@
+﻿[
+    {
+        "email":  "rebecagsilva22@gmail.com",
+        "CPF":  "06918002198"
+    },
+    {
+        "Nome_do_host":  "DESKTOP-8QJJ82L",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho autônoma",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "saraiva193@hotmail.com",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80181-55073-AA539",
+        "Data_da_instalação_original":  "06/08/2023, 12:48:47",
+        "Tempo_de_Inicialização_do_Sistema":  "21/06/2024, 12:05:31",
+        "Fabricante_do_sistema":  "SAMSUNG ELECTRONICS CO., LTD.",
+        "Modelo_do_sistema":  "300E5M/300E5L",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "172.18.244.58",
+        "Versão_do_BIOS":  "American Megatrends Inc. P03RED.016.170307.ZW, 07/03/2017",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "4.006 MB",
+        "Memória_física_disponível":  "274 MB",
+        "Memória_Virtual":  "Em Uso:                   5.586 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "WORKGROUP",
+        "Servidor_de_Logon":  "\\\\DESKTOP-8QJJ82L",
+        "Hotfix(es)":  "21 hotfix(es) instalado(s).",
+        "[02]":  "fe80::9a83:555f:1f1d:b1e5",
+        "[03]":  "Realtek PCIe FE Family Controller",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB5015684",
+        "[06]":  "KB5020683",
+        "[07]":  "KB5039211",
+        "[08]":  "KB5014032",
+        "[09]":  "KB5025315",
+        "[10]":  "KB5028318",
+        "[11]":  "KB5028380",
+        "[12]":  "KB5029709",
+        "[13]":  "KB5031539",
+        "[14]":  "KB5031540",
+        "[15]":  "KB5032392",
+        "[16]":  "KB5032907",
+        "[17]":  "KB5034224",
+        "[18]":  "KB5035225",
+        "[19]":  "KB5036447",
+        "[20]":  "KB5037018",
+        "[21]":  "KB5037995",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "Status":  "Mídia desconectada",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "172.18.255.254",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Configurações da câmera Logitech"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ePass2003"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 391"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Access MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Enterprise 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Excel MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Groove MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office InfoPath MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office OneNote MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Outlook MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office PowerPoint MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (English) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proof (Spanish) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Proofing (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Publisher MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Shared MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Office Word MUI (Portuguese (Brazil)) 2007"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "OCS Inventory NG Agent 2.6.0.0"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "21/06/2024_14:42:31",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  733322260480,
+                                         "FreeSpace":  587123900416
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "SUPORTE",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR LIDERSIS 2",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AGR LIDERSIS 3",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "AR LIDERSIS",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "SEGURA",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "SUPORTE",
+                                                                   "PrincipalSource":  1
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "True",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3473928580-2210704124-3901349786-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\sarai",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3473928580-2210704124-3901349786-1002",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR LIDERSIS 2",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3473928580-2210704124-3901349786-1003",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AR LIDERSIS",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3473928580-2210704124-3901349786-1004",
+                                                                                  "ProfileImagePath":  "C:\\Users\\AGR LIDERSIS 3",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3473928580-2210704124-3901349786-1006",
+                                                                                  "ProfileImagePath":  "C:\\Users\\SEGURA",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-3473928580-2210704124-3901349786-1008",
+                                                                                  "ProfileImagePath":  "C:\\Users\\SUPORTE",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  true,
+                                 "HistoricoSenhas":  "5",
+                                 "ComprimentoMinimoSenha":  "8",
+                                 "TempoMaximoSenha":  "30",
+                                 "TempoMinimoSenha":  "0",
+                                 "DuracaoBloqueioConta":  "30",
+                                 "LimiteBloqueioConta":  "8"
+                             }
+    }
+]

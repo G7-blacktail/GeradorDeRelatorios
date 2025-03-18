@@ -1,0 +1,333 @@
+﻿[
+    {
+        "email":  "joaoeduardo.lsilva@gmail.com",
+        "CPF":  "07715208167"
+    },
+    {
+        "Nome_do_host":  "ARLIDERSIS-C3",
+        "Nome_do_sistema_operacional":  "Microsoft Windows 10 Pro",
+        "Versão_do_sistema_operacional":  "10.0.19045 N/A compilação 19045",
+        "Fabricante_do_sistema_operacional":  "Microsoft Corporation",
+        "Configuração_do_SO":  "Estação de trabalho membro",
+        "Tipo_de_compilação_do_sistema_operacional":  "Multiprocessor Free",
+        "Proprietário_registrado":  "davils.lima9@gmail.com",
+        "Organização_registrada":  "",
+        "Identificação_do_produto":  "00330-80100-86977-AA034",
+        "Data_da_instalação_original":  "07/08/2023, 18:10:03",
+        "Tempo_de_Inicialização_do_Sistema":  "11/06/2024, 14:12:25",
+        "Fabricante_do_sistema":  "LG Electronics",
+        "Modelo_do_sistema":  "24V550-G.BJ31P1",
+        "Tipo_de_sistema":  "x64-based PC",
+        "Processador(es)":  "1 processador(es) instalado(s).",
+        "[01]":  "192.168.0.11",
+        "Versão_do_BIOS":  "Phoenix Technologies Ltd. VIVASF14 X64, 25/07/2016",
+        "Pasta_do_Windows":  "C:\\Windows",
+        "Pasta_do_sistema":  "C:\\Windows\\system32",
+        "Inicializar_dispositivo":  "\\Device\\HarddiskVolume1",
+        "Localidade_do_sistema":  "pt-br;Português (Brasil)",
+        "Localidade_de_entrada":  "pt-br;Português (Brasil)",
+        "Fuso_horário":  "(UTC-03:00) Brasília",
+        "Memória_física_total":  "8.098 MB",
+        "Memória_física_disponível":  "1.689 MB",
+        "Memória_Virtual":  "Em Uso:                   8.548 MB",
+        "Local(is)_de_arquivo_de_paginação":  "C:\\pagefile.sys",
+        "Domínio":  "rede.lidersis",
+        "Servidor_de_Logon":  "\\\\DC",
+        "Hotfix(es)":  "21 hotfix(es) instalado(s).",
+        "[02]":  "Intel(R) Dual Band Wireless-AC 3160",
+        "[03]":  "Bluetooth Device (Personal Area Network)",
+        "[04]":  "TAP-Windows Adapter V9",
+        "[05]":  "KB5015684",
+        "[06]":  "KB5020683",
+        "[07]":  "KB5026037",
+        "[08]":  "KB5039211",
+        "[09]":  "KB5014032",
+        "[10]":  "KB5016705",
+        "[11]":  "KB5028318",
+        "[12]":  "KB5028380",
+        "[13]":  "KB5029709",
+        "[14]":  "KB5031539",
+        "[15]":  "KB5032392",
+        "[16]":  "KB5032907",
+        "[17]":  "KB5034224",
+        "[18]":  "KB5036447",
+        "[19]":  "KB5037018",
+        "[20]":  "KB5037240",
+        "[21]":  "KB5037995",
+        "Placa(s)_de_Rede":  "4 NIC(s) instalado(s).",
+        "Nome_da_conexão":  "OVPN Serpro",
+        "DHCP_ativado":  "Sim",
+        "Servidor_DHCP":  "192.168.0.254",
+        "Status":  "Mídia desconectada",
+        "Requisitos_do_Hyper-V":  "Extensão de Modo de Monitor VM: Sim",
+        "Virtualização_Habilitada_no_Firmware":  "Sim",
+        "Conversão_de_Endereços_de_Segundo_Nível":  "Sim",
+        "Prevenção_de_Execução_de_Dados_Disponível":  "Sim"
+    },
+    {
+        "Informacoes_da_Criptografia":  null,
+        "Politicas_de_auditoria":  null,
+        "Programas_instalados_com_suas_versoes":  [
+                                                      {
+                                                          "DisplayName":  null
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ACG AUDIT versão 1.5"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Adobe Refresh Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "AnyDesk"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador Serpro"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Assinador SERPRO 4.1.0-java7"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "DefaultPackMSI"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "EdgeIdentity"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Event Manager"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Scan 2"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Epson Software Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Futronic Fingerprint Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Giesecke \u0026 Devrient GmbH StarSign CUT"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Google Chrome"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Intel(R) Processor Graphics"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "ISIS Driver - KODAK i2400, i2420, i2600, i2620, i2800 and i2820"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java 8 Update 391"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Java Auto Updater"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "KODAK i24x0/i26x0/i28x0 - Smart Touch"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "KODAK i24x0/i26x0/i28x0 Scanner"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge Update"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Edge WebView2 Runtime"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Search in Bing"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29914"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "pje-office versão 1.0.28"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Realtek High Definition Audio Driver"
+                                                      },
+                                                      {
+                                                          "DisplayName":  "Teams Machine-Wide Installer"
+                                                      }
+                                                  ],
+        "FCT":  {
+                    "HoraAtual":  "14/06/2024_08:29:29",
+                    "ServidorHorarioUtilizado":  "Coletando_1_amostras.",
+                    "ServidorHorarioInternet":  [
+
+                                                ]
+                },
+        "Informacoes_de_antivirus":  [
+                                         {
+                                             "Nome":  "Windows Defender",
+                                             "Status":  true
+                                         }
+                                     ],
+        "Informacoes_do_disco":  [
+                                     {
+                                         "DeviceID":  "C",
+                                         "Size":  238604550144,
+                                         "FreeSpace":  91391967232
+                                     },
+                                     {
+                                         "DeviceID":  "Y",
+                                         "Size":  751481909248,
+                                         "FreeSpace":  359911227392
+                                     },
+                                     {
+                                         "DeviceID":  "Z",
+                                         "Size":  751481909248,
+                                         "FreeSpace":  359911227392
+                                     }
+                                 ],
+        "Informacao_de_bloqueio_de_tela":  {
+                                               "Protetor_de_tela_ativo":  false,
+                                               "Tempo_de_proteÃ§Ã£o_de_tela":  null,
+                                               "Desligamento_por_inatividade_habilitado":  false,
+                                               "Tempo_de_desligamento_do_dispositivo":  null
+                                           },
+        "Informacoes_de_Grupo":  {
+                                     "Grupo_de_Usuarios":  [
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Administrador",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Davi",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Administradores",
+                                                                   "ObjectClass":  "Grupo",
+                                                                   "Name":  "Domain Admins",
+                                                                   "PrincipalSource":  2
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Convidados",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Convidado",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "System Managed Accounts Group",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "DefaultAccount",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Usuário",
+                                                                   "Name":  "Davi",
+                                                                   "PrincipalSource":  1
+                                                               },
+                                                               {
+                                                                   "GroupName":  "Usuários",
+                                                                   "ObjectClass":  "Grupo",
+                                                                   "Name":  "Domain Users",
+                                                                   "PrincipalSource":  2
+                                                               }
+                                                           ]
+                                 },
+        "Informacoe_de_Acesso_remoto":  {
+                                            "Assistencia_Remota":  "False",
+                                            "Area_de_Trabalho_Remota":  "False",
+                                            "Requer_autenticacao_no_nivel_da_rede":  ""
+                                        },
+        "Informacoes_das_contas_de_usuarios":  {
+                                                   "Contas_de_usuarios":  [
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-1700633523-2051090266-3047180923-1001",
+                                                                                  "ProfileImagePath":  "C:\\Users\\davil",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1104",
+                                                                                  "ProfileImagePath":  "C:\\Users\\bruno.vicente",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1125",
+                                                                                  "ProfileImagePath":  "C:\\Users\\willian",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1150",
+                                                                                  "ProfileImagePath":  "C:\\Users\\Davi.lima",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1154",
+                                                                                  "ProfileImagePath":  "C:\\Users\\lucas.magalhaes",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1155",
+                                                                                  "ProfileImagePath":  "C:\\Users\\carlos.henrique",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1164",
+                                                                                  "ProfileImagePath":  "C:\\Users\\tiago.dias",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1168",
+                                                                                  "ProfileImagePath":  "C:\\Users\\thais.gadelha",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-1170",
+                                                                                  "ProfileImagePath":  "C:\\Users\\joao.eduardo",
+                                                                                  "IsAdmin":  null
+                                                                              },
+                                                                              {
+                                                                                  "UserSID":  "S-1-5-21-4191469937-2657244765-3910234908-500",
+                                                                                  "ProfileImagePath":  "C:\\Users\\administrador",
+                                                                                  "IsAdmin":  null
+                                                                              }
+                                                                          ]
+                                               },
+        "Informacoes_Windows_Defender_Firewall":  [
+                                                      {
+                                                          "Nome":  "Domain",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Private",
+                                                          "Estado":  true
+                                                      },
+                                                      {
+                                                          "Nome":  "Public",
+                                                          "Estado":  true
+                                                      }
+                                                  ],
+        "Policas_de_senha":  {
+                                 "SenhaComplexidade":  false,
+                                 "HistoricoSenhas":  null,
+                                 "ComprimentoMinimoSenha":  null,
+                                 "TempoMaximoSenha":  null,
+                                 "TempoMinimoSenha":  null,
+                                 "DuracaoBloqueioConta":  "Conta_bloqueada_ate_que_um_administrador_desbloqueie.",
+                                 "LimiteBloqueioConta":  null
+                             }
+    }
+]

@@ -50,3 +50,4 @@ C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomati
 C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomatico\obj\Debug\net8.0\GeradorRelatorioAutomatico.pdb
 C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomatico\obj\Debug\net8.0\GeradorRelatorioAutomatico.genruntimeconfig.cache
 C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomatico\obj\Debug\net8.0\ref\GeradorRelatorioAutomatico.dll
+C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomatico\obj\Debug\net8.0\GeradorRelatorioAutomatico.sourcelink.json
