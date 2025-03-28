@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\GeradorRelatorioAutomatico.csproj": {}
+    "C:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\GeradorRelatorioAutomatico.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\GeradorRelatorioAutomatico.csproj": {
+    "C:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\GeradorRelatorioAutomatico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\GeradorRelatorioAutomatico.csproj",
+        "projectUniqueName": "C:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\GeradorRelatorioAutomatico.csproj",
         "projectName": "GeradorRelatorioAutomatico",
-        "projectPath": "c:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\GeradorRelatorioAutomatico.csproj",
+        "projectPath": "C:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\GeradorRelatorioAutomatico.csproj",
         "packagesPath": "C:\\Users\\gustavo.fernandes\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\obj\\",
+        "outputPath": "C:\\Users\\gustavo.fernandes\\Desktop\\coletarinventariosS3\\GeradorRelatorioAutomatico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
