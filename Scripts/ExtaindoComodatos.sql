@@ -25,7 +25,7 @@ INNER JOIN
 INNER JOIN tb_arquivo tav ON tia.id_arquivo_json = tav.id_arquivo 
 WHERE 
 --   tia.dt_inventario BETWEEN '2025-02-01 00:00:00.00000' AND '2025-02-28 23:59:59.0000' and
-   tuca.tp_situacao in (1, 5, 90, 92, 93, 94)
+   tuca.tp_situacao in (1, 90, 92, 93, 94)
    group BY 
    nm_usuario
   order by nm_usuario;

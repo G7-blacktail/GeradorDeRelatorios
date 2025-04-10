@@ -51,3 +51,5 @@ C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomati
 C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomatico\obj\Debug\net8.0\GeradorRelatorioAutomatico.genruntimeconfig.cache
 C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomatico\obj\Debug\net8.0\ref\GeradorRelatorioAutomatico.dll
 C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomatico\obj\Debug\net8.0\GeradorRelatorioAutomatico.sourcelink.json
+C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomatico\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\gustavo.fernandes\Desktop\coletarinventariosS3\GeradorRelatorioAutomatico\bin\Debug\net8.0\itextsharp.dll

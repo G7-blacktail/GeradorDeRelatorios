@@ -8,13 +8,7 @@ using OfficeOpenXml;
 using PdfSharp.Drawing;
 using PdfSharp.Pdf;
 using PdfSharp.Fonts;
-using System;
-using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System;
-using System.Collections.Generic;
-using System.IO;
 using System.Globalization;
 
 
